@@ -33,6 +33,8 @@ write.csv(head(merged[, c("driverRef", "forename", "surname", "nationality", "wi
 """
 
 def run_hybrid_f1_pipeline(data_dir: str = "data"):
+    if not Path(data_dir).exists() and Path("Dataset").exists():
+        data_dir = "Dataset"
     r_path = Path("f1_stats.R")
     r_path.write_text(R_SCRIPT)
 
