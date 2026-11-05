@@ -29,3 +29,4 @@ Steps to reproduce the behavior:
 
 ## 📸 Screenshots or Console Logs
 If applicable, add screenshots, Plotly layout inspects, or browser/terminal console logs to help explain your problem.
+
