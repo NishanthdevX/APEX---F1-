@@ -1,6 +1,55 @@
-.web
-.states
-*.db
+# Reflex Build Artifacts
+.web/
+.states/
+assets/external/
+
+# Python Virtual Environments & Caches
 __pycache__/
 *.py[cod]
-assets/external/
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Package & Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
