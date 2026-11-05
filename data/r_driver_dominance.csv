@@ -1,0 +1,819 @@
+driverId,driverRef,driverName,nationality,seasons,totalTitles,totalWins,totalPoints,meanSeasonZ,peakSeasonZ,primaryEra,dominanceIndex
+13,fangio,Juan Fangio,Argentine,8,5,24,245.0,2.46,3.93,1950-1982 Ground Effect,3.49
+703,michael_schumacher,Michael Schumacher,German,19,7,91,1566.0,1.54,3.26,1983-2005 V10 / Turbo,3.08
+613,prost,Alain Prost,French,13,4,51,768.5,1.84,3.24,1983-2005 V10 / Turbo,3.06
+430,stewart,Jackie Stewart,British,9,3,27,359.0,1.67,3.59,1950-1982 Ground Effect,3.05
+831,max_verstappen,Max Verstappen,Dutch,12,4,73,3680.5,1.5,3.24,2014-2026 Hybrid Era,3.01
+795,hamilton,Lewis Hamilton,British,20,7,106,5259.5,1.57,2.89,2014-2026 Hybrid Era,2.95
+652,senna,Ayrton Senna,Brazilian,11,3,41,610.0,1.48,3.11,1983-2005 V10 / Turbo,2.83
+24,ascari,Alberto Ascari,Italian,6,2,13,107.64,1.05,3.22,1950-1982 Ground Effect,2.54
+798,vettel,Sebastian Vettel,German,16,4,53,3098.0,0.95,2.72,2014-2026 Hybrid Era,2.53
+347,clark,Jim Clark,British,9,2,25,255.0,1.18,2.88,1950-1982 Ground Effect,2.53
+712,damon_hill,Damon Hill,British,8,1,22,360.0,0.84,3.05,1983-2005 V10 / Turbo,2.45
+236,jack_brabham,Jack Brabham,Australian,16,3,14,255.0,0.38,3.44,1950-1982 Ground Effect,2.44
+499,lauda,Niki Lauda,Austrian,13,3,25,418.5,0.75,2.83,1950-1982 Ground Effect,2.37
+763,alonso,Fernando Alonso,Spanish,23,2,32,2400.0,0.45,2.92,2014-2026 Hybrid Era,2.33
+619,mansell,Nigel Mansell,British,15,1,31,480.0,0.48,2.94,1983-2005 V10 / Turbo,2.33
+485,emerson_fittipaldi,Emerson Fittipaldi,Brazilian,11,2,14,281.0,0.51,2.86,1950-1982 Ground Effect,2.2
+603,piquet,Nelson Piquet,Brazilian,14,3,23,481.5,0.74,2.41,1983-2005 V10 / Turbo,2.17
+1,farina,Nino Farina,Italian,6,1,5,114.0,1.21,2.63,1950-1982 Ground Effect,2.16
+82,moss,Stirling Moss,British,11,0,16,185.64,0.82,2.61,1950-1982 Ground Effect,2.16
+863,antonelli,Andrea Kimi Antonelli,Italian,2,1,9,515.0,1.21,2.34,2014-2026 Hybrid Era,2.11
+277,hill,Graham Hill,British,18,2,14,270.0,0.19,2.91,1950-1982 Ground Effect,2.11
+696,hakkinen,Mika Häkkinen,Finnish,11,2,20,420.0,0.52,2.5,1983-2005 V10 / Turbo,2.09
+762,raikkonen,Kimi Räikkönen,Finnish,19,1,21,1873.0,0.53,2.32,2014-2026 Hybrid Era,2.0
+438,hulme,Denny Hulme,New Zealander,10,1,8,248.0,0.72,2.47,1950-1982 Ground Effect,1.98
+789,rosberg,Nico Rosberg,German,11,1,23,1594.5,0.44,2.27,2006-2013 V8 Aero,1.97
+131,hawthorn,Mike Hawthorn,British,7,1,3,112.64,0.71,2.7,1950-1982 Ground Effect,1.96
+549,jones,Alan Jones,Australian,10,1,12,199.0,0.14,2.66,1950-1982 Ground Effect,1.93
+511,scheckter,Jody Scheckter,South African,9,1,10,246.0,0.55,2.21,1950-1982 Ground Effect,1.84
+515,hunt,James Hunt,British,7,1,10,179.0,0.33,2.33,1950-1982 Ground Effect,1.82
+845,norris,Lando Norris,British,8,1,13,1641.0,0.65,1.93,2014-2026 Hybrid Era,1.79
+742,villeneuve,Jacques Villeneuve,Canadian,11,1,11,235.0,-0.09,2.51,1983-2005 V10 / Turbo,1.76
+428,rindt,Jochen Rindt,Austrian,7,1,6,107.0,0.2,2.4,1950-1982 Ground Effect,1.73
+857,piastri,Oscar Piastri,Australian,4,0,9,943.0,0.8,1.84,2014-2026 Hybrid Era,1.7
+759,button,Jenson Button,British,18,1,15,1235.0,0.06,2.12,2006-2013 V8 Aero,1.69
+297,mclaren,Bruce McLaren,New Zealander,13,0,4,188.5,0.23,2.54,1950-1982 Ground Effect,1.66
+474,mario_andretti,Mario Andretti,American,14,1,12,180.0,-0.27,2.39,1950-1982 Ground Effect,1.66
+340,surtees,John Surtees,British,13,1,6,180.0,0.14,2.28,1950-1982 Ground Effect,1.65
+505,reutemann,Carlos Reutemann,Argentine,11,0,12,297.0,0.52,1.75,1950-1982 Ground Effect,1.61
+293,phil_hill,Phil Hill,American,7,1,3,94.0,0.3,2.18,1950-1982 Ground Effect,1.58
+843,leclerc,Charles Leclerc,Monegasque,9,0,9,1905.0,0.73,1.56,2014-2026 Hybrid Era,1.55
+715,barrichello,Rubens Barrichello,Brazilian,19,0,11,658.0,0.1,1.94,1983-2005 V10 / Turbo,1.54
+770,massa,Felipe Massa,Brazilian,15,0,11,1167.0,0.15,1.82,2006-2013 V8 Aero,1.5
+598,keke_rosberg,Keke Rosberg,Finnish,9,1,5,159.5,0.01,2.06,1950-1982 Ground Effect,1.49
+480,peterson,Ronnie Peterson,Swedish,9,0,10,206.0,0.32,1.7,1950-1982 Ground Effect,1.49
+820,bottas,Valtteri Bottas,Finnish,13,0,10,1797.0,0.28,1.71,2014-2026 Hybrid Era,1.48
+455,ickx,Jacky Ickx,Belgian,13,0,8,181.0,-0.01,2.03,1950-1982 Ground Effect,1.48
+764,montoya,Juan Pablo Montoya,Colombian,6,0,7,307.0,0.6,1.58,1983-2005 V10 / Turbo,1.46
+482,regazzoni,Clay Regazzoni,Swiss,11,0,5,209.0,0.2,1.89,1950-1982 Ground Effect,1.4
+586,gilles_villeneuve,Gilles Villeneuve,Canadian,6,0,6,101.0,0.0,1.96,1950-1982 Ground Effect,1.39
+243,brooks,Tony Brooks,British,6,0,6,75.0,0.26,1.7,1950-1982 Ground Effect,1.37
+728,coulthard,David Coulthard,British,15,0,13,535.0,0.28,1.31,1983-2005 V10 / Turbo,1.35
+2,fagioli,Luigi Fagioli,Italian,2,0,1,28.0,0.68,1.93,1950-1982 Ground Effect,1.33
+768,webber,Mark Webber,Australian,12,0,9,1047.5,0.18,1.46,2006-2013 V8 Aero,1.31
+119,collins,Peter Collins,British,7,0,3,47.0,-0.16,2.16,1950-1982 Ground Effect,1.31
+720,irvine,Eddie Irvine,British,10,0,4,191.0,-0.1,1.99,1983-2005 V10 / Turbo,1.3
+599,arnoux,René Arnoux,French,12,0,7,181.0,-0.09,1.64,1983-2005 V10 / Turbo,1.25
+596,pironi,Didier Pironi,French,5,0,3,101.0,0.25,1.7,1950-1982 Ground Effect,1.24
+259,trips,Wolfgang von Trips,German,6,0,2,56.0,-0.09,2.08,1950-1982 Ground Effect,1.23
+847,russell,George Russell,British,8,0,8,1275.0,0.27,1.25,2014-2026 Hybrid Era,1.22
+518,watson,John Watson,British,12,0,5,169.0,-0.16,1.7,1950-1982 Ground Effect,1.19
+655,berger,Gerhard Berger,Austrian,14,0,10,385.0,0.27,1.03,1983-2005 V10 / Turbo,1.17
+630,alboreto,Michele Alboreto,Italian,14,0,5,186.5,-0.19,1.69,1983-2005 V10 / Turbo,1.17
+540,laffite,Jacques Laffite,French,13,0,6,228.0,-0.03,1.47,1950-1982 Ground Effect,1.16
+815,perez,Sergio Pérez,Mexican,15,0,6,1638.0,-0.04,1.44,2014-2026 Hybrid Era,1.15
+27,gonzalez,José Froilán González,Argentine,9,0,2,72.14,-0.03,1.82,1950-1982 Ground Effect,1.13
+581,patrese,Riccardo Patrese,Italian,17,0,6,281.0,-0.15,1.42,1983-2005 V10 / Turbo,1.1
+816,ricciardo,Daniel Ricciardo,Australian,14,0,8,1329.0,-0.12,1.22,2014-2026 Hybrid Era,1.07
+483,cevert,François Cevert,French,4,0,1,89.0,0.37,1.36,1950-1982 Ground Effect,0.96
+830,sainz,Carlos Sainz,Spanish,12,0,4,1343.5,-0.03,1.11,2014-2026 Hybrid Era,0.93
+76,taruffi,Piero Taruffi,Italian,6,0,1,41.0,-0.08,1.62,1950-1982 Ground Effect,0.92
+748,ralf_schumacher,Ralf Schumacher,German,11,0,6,329.0,0.06,0.83,1983-2005 V10 / Turbo,0.91
+725,frentzen,Heinz-Harald Frentzen,German,10,0,3,174.0,-0.18,1.21,1983-2005 V10 / Turbo,0.87
+314,gurney,Dan Gurney,American,11,0,4,133.0,-0.0,0.92,1950-1982 Ground Effect,0.85
+645,boutsen,Thierry Boutsen,Belgian,11,0,3,132.0,-0.29,1.21,1983-2005 V10 / Turbo,0.83
+339,ginther,Richie Ginther,American,7,0,1,102.0,0.22,1.12,1950-1982 Ground Effect,0.8
+114,behra,Jean Behra,French,8,0,0,51.14,-0.22,1.8,1950-1982 Ground Effect,0.73
+585,tambay,Patrick Tambay,French,9,0,2,103.0,-0.34,1.16,1950-1982 Ground Effect,0.72
+508,depailler,Patrick Depailler,French,8,0,2,139.0,-0.03,0.9,1950-1982 Ground Effect,0.72
+744,fisichella,Giancarlo Fisichella,Italian,14,0,3,275.0,-0.33,0.87,1983-2005 V10 / Turbo,0.67
+423,revson,Peter Revson,American,5,0,2,61.0,-0.28,0.94,1950-1982 Ground Effect,0.65
+794,kubica,Robert Kubica,Polish,7,0,1,274.0,-0.24,1.13,2006-2013 V8 Aero,0.64
+607,angelis,Elio de Angelis,Italian,8,0,2,122.0,-0.13,0.71,1983-2005 V10 / Turbo,0.6
+29,trintignant,Maurice Trintignant,French,15,0,2,71.0,-0.45,0.97,1950-1982 Ground Effect,0.6
+661,nannini,Alessandro Nannini,Italian,5,0,1,65.0,-0.22,0.95,1983-2005 V10 / Turbo,0.57
+679,herbert,Johnny Herbert,British,12,0,3,98.0,-0.49,0.75,1983-2005 V10 / Turbo,0.56
+196,musso,Luigi Musso,Italian,6,0,1,44.0,-0.12,0.83,1950-1982 Ground Effect,0.55
+413,rodriguez,Pedro Rodríguez,Mexican,9,0,2,71.0,-0.37,0.75,1950-1982 Ground Effect,0.53
+358,bandini,Lorenzo Bandini,Italian,7,0,1,58.0,-0.31,0.93,1950-1982 Ground Effect,0.53
+685,alesi,Jean Alesi,French,13,0,1,241.0,-0.1,0.72,1983-2005 V10 / Turbo,0.51
+312,ireland,Innes Ireland,British,8,0,1,47.0,-0.44,0.94,1950-1982 Ground Effect,0.49
+383,siffert,Jo Siffert,Swiss,10,0,2,68.0,-0.46,0.47,1950-1982 Ground Effect,0.37
+506,pace,Carlos Pace,Brazilian,6,0,1,58.0,-0.41,0.49,1950-1982 Ground Effect,0.3
+450,beltoise,Jean-Pierre Beltoise,French,8,0,1,77.0,-0.31,0.36,1950-1982 Ground Effect,0.27
+222,castellotti,Eugenio Castellotti,Italian,3,0,0,19.5,-0.07,0.64,1950-1982 Ground Effect,0.26
+209,kling,Karl Kling,German,2,0,0,17.0,0.13,0.45,1950-1982 Ground Effect,0.25
+26,villoresi,Luigi Villoresi,Italian,7,0,0,46.0,-0.18,0.69,1950-1982 Ground Effect,0.25
+747,trulli,Jarno Trulli,Italian,15,0,1,246.5,-0.43,0.35,1983-2005 V10 / Turbo,0.23
+796,kovalainen,Heikki Kovalainen,Finnish,7,0,1,105.0,-0.61,0.44,2006-2013 V8 Aero,0.2
+758,heidfeld,Nick Heidfeld,German,12,0,0,259.0,-0.37,0.66,2006-2013 V8 Aero,0.17
+404,amon,Chris Amon,New Zealander,14,0,0,83.0,-0.52,0.75,1950-1982 Ground Effect,0.16
+99,vukovich,Bill Vukovich,American,5,0,2,19.0,-0.5,0.03,1950-1982 Ground Effect,0.16
+563,nilsson,Gunnar Nilsson,Swedish,2,0,1,31.0,-0.22,-0.0,1950-1982 Ground Effect,0.14
+519,mass,Jochen Mass,German,9,0,1,71.0,-0.56,0.26,1950-1982 Ground Effect,0.14
+615,johansson,Stefan Johansson,Swedish,8,0,0,88.0,-0.34,0.5,1983-2005 V10 / Turbo,0.11
+5,rosier,Louis Rosier,French,7,0,0,18.0,-0.58,0.65,1950-1982 Ground Effect,0.09
+648,brundle,Martin Brundle,British,12,0,0,98.0,-0.5,0.55,1983-2005 V10 / Turbo,0.07
+129,sweikert,Bob Sweikert,American,5,0,1,8.0,-0.66,0.17,1950-1982 Ground Effect,0.07
+40,wallard,Lee Wallard,American,2,0,1,9.0,-0.44,-0.02,1950-1982 Ground Effect,0.06
+34,parsons,Johnnie Parsons,American,9,0,1,12.0,-0.75,0.18,1950-1982 Ground Effect,0.04
+44,flaherty,Pat Flaherty,American,6,0,1,8.0,-0.75,0.13,1950-1982 Ground Effect,0.02
+841,gasly,Pierre Gasly,French,10,0,1,500.0,-0.49,-0.11,2014-2026 Hybrid Era,-0.0
+65,hanks,Sam Hanks,American,8,0,1,20.0,-0.6,-0.05,1950-1982 Ground Effect,-0.01
+58,rathmann,Jim Rathmann,American,10,0,1,29.0,-0.61,-0.06,1950-1982 Ground Effect,-0.02
+838,ocon,Esteban Ocon,French,10,0,1,490.0,-0.5,-0.15,2014-2026 Hybrid Era,-0.02
+83,fischer,Rudi Fischer,Swiss,2,0,0,10.0,-0.37,0.25,1950-1982 Ground Effect,-0.02
+49,ruttman,Troy Ruttman,American,8,0,1,9.5,-0.77,0.02,1950-1982 Ground Effect,-0.04
+324,parkes,Mike Parkes,British,2,0,0,14.0,-0.31,0.11,1950-1982 Ground Effect,-0.06
+864,hadjar,Isack Hadjar,French,2,0,0,156.0,-0.28,0.03,2014-2026 Hybrid Era,-0.08
+846,albon,Alexander Albon,Thai,7,0,0,318.0,-0.5,0.2,2014-2026 Hybrid Era,-0.08
+179,mieres,Roberto Mieres,Argentine,3,0,0,13.0,-0.36,0.05,1950-1982 Ground Effect,-0.1
+257,bonnier,Jo Bonnier,Swedish,16,0,1,39.0,-0.75,-0.13,1950-1982 Ground Effect,-0.1
+405,scarfiotti,Ludovico Scarfiotti,Italian,6,0,1,17.0,-0.7,-0.17,1950-1982 Ground Effect,-0.1
+723,panis,Olivier Panis,French,10,0,1,76.0,-0.57,-0.26,1983-2005 V10 / Turbo,-0.1
+597,cheever,Eddie Cheever,American,11,0,0,70.0,-0.57,0.19,1983-2005 V10 / Turbo,-0.11
+124,bryan,Jimmy Bryan,American,9,0,1,18.0,-0.73,-0.17,1950-1982 Ground Effect,-0.11
+805,grosjean,Romain Grosjean,French,10,0,0,391.0,-0.62,0.24,2014-2026 Hybrid Era,-0.11
+534,jabouille,Jean-Pierre Jabouille,French,6,0,2,21.0,-0.77,-0.37,1950-1982 Ground Effect,-0.11
+362,maggs,Tony Maggs,South African,5,0,0,26.0,-0.56,0.17,1950-1982 Ground Effect,-0.12
+262,lewis-evans,Stuart Lewis-Evans,British,2,0,0,16.0,-0.24,-0.09,1950-1982 Ground Effect,-0.12
+631,warwick,Derek Warwick,British,11,0,0,71.0,-0.6,0.18,1983-2005 V10 / Turbo,-0.13
+31,schell,Harry Schell,American,11,0,0,32.0,-0.63,0.18,1950-1982 Ground Effect,-0.14
+142,salvadori,Roy Salvadori,British,11,0,0,19.0,-0.79,0.27,1950-1982 Ground Effect,-0.15
+28,manzon,Robert Manzon,French,7,0,0,16.0,-0.62,0.14,1950-1982 Ground Effect,-0.15
+484,gethin,Peter Gethin,British,5,0,1,11.0,-0.77,-0.25,1950-1982 Ground Effect,-0.16
+240,gendebien,Olivier Gendebien,Belgian,5,0,0,18.0,-0.65,0.14,1950-1982 Ground Effect,-0.16
+359,baghetti,Giancarlo Baghetti,Italian,7,0,1,14.0,-0.78,-0.25,1950-1982 Ground Effect,-0.17
+97,ward,Rodger Ward,American,11,0,1,14.0,-0.8,-0.26,1950-1982 Ground Effect,-0.18
+261,gregory,Masten Gregory,American,8,0,0,21.0,-0.73,0.17,1950-1982 Ground Effect,-0.18
+448,courage,Piers Courage,British,4,0,0,20.0,-0.62,0.05,1950-1982 Ground Effect,-0.19
+385,arundell,Peter Arundell,British,4,0,0,12.0,-0.7,-0.02,1950-1982 Ground Effect,-0.25
+132,frere,Paul Frère,Belgian,5,0,0,11.0,-0.59,-0.11,1950-1982 Ground Effect,-0.26
+407,hailwood,Mike Hailwood,British,7,0,0,29.0,-0.67,-0.08,1950-1982 Ground Effect,-0.27
+68,bonetto,Felice Bonetto,Italian,4,0,0,17.5,-0.47,-0.24,1950-1982 Ground Effect,-0.27
+825,kvyat,Daniil Kvyat,Russian,6,0,0,202.0,-0.64,-0.1,2014-2026 Hybrid Era,-0.27
+769,sato,Takuma Sato,Japanese,7,0,0,44.0,-0.75,-0.03,1983-2005 V10 / Turbo,-0.28
+35,holland,Bill Holland,American,2,0,0,6.0,-0.57,-0.17,1950-1982 Ground Effect,-0.28
+185,herrmann,Hans Herrmann,German,8,0,0,10.0,-0.83,0.03,1950-1982 Ground Effect,-0.28
+840,stroll,Lance Stroll,Canadian,10,0,0,325.0,-0.63,-0.13,2014-2026 Hybrid Era,-0.28
+807,hulkenberg,Nico Hülkenberg,German,15,0,0,635.0,-0.58,-0.2,2014-2026 Hybrid Era,-0.29
+697,blundell,Mark Blundell,British,4,0,0,32.0,-0.43,-0.32,1983-2005 V10 / Turbo,-0.29
+111,godia,Paco Godia,Spanish,5,0,0,6.0,-0.78,-0.11,1950-1982 Ground Effect,-0.32
+622,cesaris,Andrea de Cesaris,Italian,15,0,0,59.0,-0.66,-0.19,1983-2005 V10 / Turbo,-0.32
+659,capelli,Ivan Capelli,Italian,9,0,0,31.0,-0.67,-0.19,1983-2005 V10 / Turbo,-0.32
+858,lawson,Liam Lawson,New Zealander,4,0,0,121.0,-0.64,-0.22,2014-2026 Hybrid Era,-0.32
+525,brambilla,Vittorio Brambilla,Italian,7,0,1,15.5,-0.86,-0.52,1950-1982 Ground Effect,-0.32
+750,wurz,Alexander Wurz,Austrian,6,0,0,45.0,-0.63,-0.25,1983-2005 V10 / Turbo,-0.33
+410,spence,Mike Spence,British,6,0,0,27.0,-0.62,-0.27,1950-1982 Ground Effect,-0.34
+717,andretti,Michael Andretti,American,1,0,0,7.0,-0.43,-0.43,1983-2005 V10 / Turbo,-0.34
+671,modena,Stefano Modena,Italian,6,0,0,17.0,-0.66,-0.27,1983-2005 V10 / Turbo,-0.35
+500,jarier,Jean-Pierre Jarier,French,12,0,0,31.5,-0.82,-0.16,1950-1982 Ground Effect,-0.36
+86,nazaruk,Mike Nazaruk,American,3,0,0,8.0,-0.63,-0.34,1950-1982 Ground Effect,-0.37
+488,wisell,Reine Wisell,Swedish,5,0,0,13.0,-0.74,-0.25,1950-1982 Ground Effect,-0.37
+48,mcgrath,Jack McGrath,American,6,0,0,9.0,-0.73,-0.28,1950-1982 Ground Effect,-0.38
+15,bira,Prince Bira,Thai,5,0,0,8.0,-0.72,-0.29,1950-1982 Ground Effect,-0.38
+478,stommelen,Rolf Stommelen,German,8,0,0,14.0,-0.81,-0.22,1950-1982 Ground Effect,-0.38
+18,graffenried,Toulo de Graffenried,Swiss,6,0,0,9.0,-0.74,-0.28,1950-1982 Ground Effect,-0.38
+638,fabi,Teo Fabi,Italian,5,0,0,23.0,-0.73,-0.3,1983-2005 V10 / Turbo,-0.39
+639,moreno,Roberto Moreno,Brazilian,6,0,0,15.0,-0.69,-0.34,1983-2005 V10 / Turbo,-0.39
+724,verstappen,Jos Verstappen,Dutch,8,0,0,17.0,-0.77,-0.27,1983-2005 V10 / Turbo,-0.39
+104,marimon,Onofre Marimón,Argentine,3,0,0,8.14,-0.65,-0.37,1950-1982 Ground Effect,-0.39
+708,fittipaldi,Christian Fittipaldi,Brazilian,3,0,0,12.0,-0.55,-0.44,1983-2005 V10 / Turbo,-0.39
+123,cross,Art Cross,American,4,0,0,8.0,-0.65,-0.38,1950-1982 Ground Effect,-0.4
+814,maldonado,Pastor Maldonado,Venezuelan,5,0,1,76.0,-0.87,-0.71,2006-2013 V8 Aero,-0.4
+276,allison,Cliff Allison,British,4,0,0,11.0,-0.8,-0.26,1950-1982 Ground Effect,-0.4
+3,reg_parnell,Reg Parnell,British,4,0,0,9.0,-0.64,-0.4,1950-1982 Ground Effect,-0.4
+705,wendlinger,Karl Wendlinger,Austrian,5,0,0,14.0,-0.63,-0.43,1983-2005 V10 / Turbo,-0.41
+51,davies,Jimmy Davies,American,5,0,0,4.0,-0.79,-0.3,1950-1982 Ground Effect,-0.41
+183,fairman,Jack Fairman,British,8,0,0,5.0,-0.89,-0.23,1950-1982 Ground Effect,-0.42
+25,sommer,Raymond Sommer,French,1,0,0,3.0,-0.52,-0.52,1950-1982 Ground Effect,-0.42
+74,serafini,Dorino Serafini,Italian,1,0,0,3.0,-0.52,-0.52,1950-1982 Ground Effect,-0.42
+36,rose,Mauri Rose,American,2,0,0,4.0,-0.7,-0.4,1950-1982 Ground Effect,-0.42
+197,mantovani,Sergio Mantovani,Italian,3,0,0,4.0,-0.71,-0.38,1950-1982 Ground Effect,-0.42
+782,glock,Timo Glock,German,6,0,0,51.0,-0.8,-0.34,2006-2013 V8 Aero,-0.43
+285,george_amick,George Amick,American,1,0,0,6.0,-0.54,-0.54,1950-1982 Ground Effect,-0.43
+250,portago,Alfonso de Portago,Spanish,2,0,0,4.0,-0.64,-0.47,1950-1982 Ground Effect,-0.44
+224,perdisa,Cesare Perdisa,Italian,3,0,0,5.0,-0.64,-0.47,1950-1982 Ground Effect,-0.44
+656,martini,Pierluigi Martini,Italian,9,0,0,18.0,-0.71,-0.42,1983-2005 V10 / Turbo,-0.44
+824,kevin_magnussen,Kevin Magnussen,Danish,10,0,0,202.0,-0.74,-0.41,2014-2026 Hybrid Era,-0.44
+140,poore,Dennis Poore,British,1,0,0,3.0,-0.55,-0.55,1950-1982 Ground Effect,-0.44
+524,stuck,Hans-Joachim Stuck,German,6,0,0,29.0,-0.75,-0.41,1950-1982 Ground Effect,-0.45
+471,pescarolo,Henri Pescarolo,French,7,0,0,12.0,-0.82,-0.37,1950-1982 Ground Effect,-0.45
+216,flockhart,Ron Flockhart,British,6,0,0,5.0,-0.85,-0.35,1950-1982 Ground Effect,-0.45
+530,pryce,Tom Pryce,British,4,0,0,19.0,-0.74,-0.43,1950-1982 Ground Effect,-0.45
+687,bernard,Éric Bernard,French,4,0,0,10.0,-0.64,-0.52,1983-2005 V10 / Turbo,-0.46
+873,arvid_lindblad,Arvid Lindblad,British,1,0,0,38.0,-0.57,-0.57,2014-2026 Hybrid Era,-0.46
+673,gugelmin,Maurício Gugelmin,Brazilian,5,0,0,10.0,-0.68,-0.5,1983-2005 V10 / Turbo,-0.46
+669,larini,Nicola Larini,Italian,8,0,0,7.0,-0.75,-0.44,1983-2005 V10 / Turbo,-0.46
+664,satoru_nakajima,Satoru Nakajima,Japanese,5,0,0,16.0,-0.65,-0.52,1983-2005 V10 / Turbo,-0.46
+690,lehto,Jyrki Järvilehto,Finnish,6,0,0,10.0,-0.67,-0.5,1983-2005 V10 / Turbo,-0.46
+177,freeland,Don Freeland,American,8,0,0,4.0,-0.87,-0.35,1950-1982 Ground Effect,-0.46
+19,chiron,Louis Chiron,Monegasque,5,0,0,4.0,-0.79,-0.4,1950-1982 Ground Effect,-0.46
+32,whitehead,Peter Whitehead,British,5,0,0,4.0,-0.81,-0.4,1950-1982 Ground Effect,-0.46
+43,paul_russo,Paul Russo,American,8,0,0,8.5,-0.81,-0.42,1950-1982 Ground Effect,-0.47
+176,thomson,Johnny Thomson,American,8,0,0,10.0,-0.79,-0.42,1950-1982 Ground Effect,-0.47
+583,rebaque,Hector Rebaque,Mexican,5,0,0,13.0,-0.84,-0.39,1950-1982 Ground Effect,-0.47
+733,salo,Mika Salo,Finnish,8,0,0,33.0,-0.68,-0.51,1983-2005 V10 / Turbo,-0.47
+684,gachot,Bertrand Gachot,Belgian,5,0,0,5.0,-0.7,-0.5,1983-2005 V10 / Turbo,-0.47
+663,caffi,Alex Caffi,Italian,6,0,0,6.0,-0.74,-0.5,1983-2005 V10 / Turbo,-0.48
+38,bettenhausen,Tony Bettenhausen,American,11,0,0,11.0,-0.82,-0.42,1950-1982 Ground Effect,-0.48
+513,follmer,George Follmer,American,1,0,0,5.0,-0.6,-0.6,1950-1982 Ground Effect,-0.48
+169,menditeguy,Carlos Menditeguy,Argentine,7,0,0,9.0,-0.75,-0.49,1950-1982 Ground Effect,-0.48
+701,barbazza,Fabrizio Barbazza,Italian,1,0,0,2.0,-0.61,-0.61,1983-2005 V10 / Turbo,-0.49
+707,katayama,Ukyo Katayama,Japanese,6,0,0,5.0,-0.77,-0.48,1983-2005 V10 / Turbo,-0.49
+754,rosa,Pedro de la Rosa,Spanish,9,0,0,35.0,-0.81,-0.45,1983-2005 V10 / Turbo,-0.49
+698,comas,Érik Comas,French,4,0,0,7.0,-0.63,-0.6,1983-2005 V10 / Turbo,-0.49
+348,mairesse,Willy Mairesse,Belgian,4,0,0,7.0,-0.8,-0.46,1950-1982 Ground Effect,-0.49
+812,resta,Paul di Resta,British,4,0,0,121.0,-0.71,-0.55,2006-2013 V8 Aero,-0.5
+234,ramos,Hernando da Silva Ramos,Brazilian,2,0,0,2.0,-0.68,-0.58,1950-1982 Ground Effect,-0.5
+289,goldsmith,Paul Goldsmith,American,3,0,0,6.0,-0.84,-0.46,1950-1982 Ground Effect,-0.5
+326,trevor_taylor,Trevor Taylor,British,5,0,0,8.0,-0.85,-0.44,1950-1982 Ground Effect,-0.5
+37,green,Cecil Green,American,2,0,0,3.0,-0.76,-0.52,1950-1982 Ground Effect,-0.5
+647,palmer,Jonathan Palmer,British,7,0,0,14.0,-0.79,-0.52,1983-2005 V10 / Turbo,-0.51
+8,etancelin,Philippe Étancelin,French,3,0,0,3.0,-0.8,-0.52,1950-1982 Ground Effect,-0.51
+449,gavin,Johnny Servoz-Gavin,French,4,0,0,9.0,-0.78,-0.53,1950-1982 Ground Effect,-0.51
+692,morbidelli,Gianni Morbidelli,Italian,6,0,0,8.5,-0.75,-0.56,1983-2005 V10 / Turbo,-0.51
+426,attwood,Richard Attwood,British,5,0,0,11.0,-0.78,-0.53,1950-1982 Ground Effect,-0.51
+491,ganley,Howden Ganley,New Zealander,4,0,0,10.0,-0.76,-0.54,1950-1982 Ground Effect,-0.51
+4,cabantous,Yves Cabantous,French,4,0,0,5.0,-0.79,-0.52,1950-1982 Ground Effect,-0.51
+408,anderson,Bob Anderson,British,5,0,0,8.0,-0.81,-0.5,1950-1982 Ground Effect,-0.51
+686,pirro,Emanuele Pirro,Italian,3,0,0,3.0,-0.71,-0.6,1983-2005 V10 / Turbo,-0.52
+797,sutil,Adrian Sutil,German,7,0,0,124.0,-0.84,-0.5,2006-2013 V8 Aero,-0.52
+115,wharton,Ken Wharton,British,4,0,0,3.0,-0.77,-0.55,1950-1982 Ground Effect,-0.52
+396,love,John Love,Rhodesian,9,0,0,6.0,-0.9,-0.46,1950-1982 Ground Effect,-0.52
+658,danner,Christian Danner,German,4,0,0,4.0,-0.8,-0.55,1983-2005 V10 / Turbo,-0.53
+677,suzuki,Aguri Suzuki,Japanese,7,0,0,8.0,-0.73,-0.62,1983-2005 V10 / Turbo,-0.53
+486,schenken,Tim Schenken,Australian,5,0,0,7.0,-0.83,-0.54,1950-1982 Ground Effect,-0.53
+675,bailey,Julian Bailey,British,2,0,0,1.0,-0.72,-0.62,1983-2005 V10 / Turbo,-0.53
+600,daly,Derek Daly,Irish,5,0,0,15.0,-0.82,-0.53,1950-1982 Ground Effect,-0.53
+454,oliver,Jackie Oliver,British,8,0,0,13.0,-0.82,-0.53,1950-1982 Ground Effect,-0.53
+141,thompson,Eric Thompson,British,1,0,0,2.0,-0.66,-0.66,1950-1982 Ground Effect,-0.53
+730,adams,Philippe Adams,Belgian,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+732,noda,Hideki Noda,Japanese,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+198,maglioli,Umberto Maglioli,Italian,5,0,0,3.33,-0.78,-0.59,1950-1982 Ground Effect,-0.54
+722,gounon,Jean-Marc Gounon,French,2,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+721,toshio_suzuki,Toshio Suzuki,Japanese,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+46,darter,Duane Carter,American,8,0,0,6.5,-0.83,-0.55,1950-1982 Ground Effect,-0.54
+727,ratzenberger,Roland Ratzenberger,Austrian,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+468,elford,Vic Elford,British,3,0,0,8.0,-0.76,-0.61,1950-1982 Ground Effect,-0.54
+734,lagorce,Franck Lagorce,French,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+726,beretta,Olivier Beretta,Monegasque,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+719,apicella,Marco Apicella,Italian,1,0,0,0.0,-0.68,-0.68,1983-2005 V10 / Turbo,-0.54
+771,mcnish,Allan McNish,British,1,0,0,0.0,-0.67,-0.67,1983-2005 V10 / Turbo,-0.54
+700,poele,Eric van de Poele,Belgian,2,0,0,0.0,-0.7,-0.66,1983-2005 V10 / Turbo,-0.54
+704,zanardi,Alessandro Zanardi,Italian,5,0,0,1.0,-0.73,-0.65,1983-2005 V10 / Turbo,-0.55
+809,petrov,Vitaly Petrov,Russian,3,0,0,64.0,-0.87,-0.54,2006-2013 V8 Aero,-0.55
+680,grouillard,Olivier Grouillard,French,4,0,0,1.0,-0.74,-0.65,1983-2005 V10 / Turbo,-0.55
+765,bernoldi,Enrique Bernoldi,Brazilian,2,0,0,0.0,-0.72,-0.67,1983-2005 V10 / Turbo,-0.55
+501,donohue,Mark Donohue,American,3,0,0,8.0,-0.78,-0.62,1950-1982 Ground Effect,-0.55
+164,bayol,Élie Bayol,French,5,0,0,2.0,-0.81,-0.59,1950-1982 Ground Effect,-0.55
+672,sala,Luis Pérez-Sala,Spanish,2,0,0,1.0,-0.74,-0.65,1983-2005 V10 / Turbo,-0.55
+767,yoong,Alex Yoong,Malaysian,2,0,0,0.0,-0.72,-0.67,1983-2005 V10 / Turbo,-0.55
+806,kobayashi,Kamui Kobayashi,Japanese,5,0,0,125.0,-0.81,-0.6,2006-2013 V8 Aero,-0.55
+775,matta,Cristiano da Matta,Brazilian,2,0,0,13.0,-0.72,-0.66,1983-2005 V10 / Turbo,-0.55
+650,alliot,Philippe Alliot,French,9,0,0,7.0,-0.79,-0.61,1983-2005 V10 / Turbo,-0.55
+214,gould,Horace Gould,British,6,0,0,2.0,-0.84,-0.58,1950-1982 Ground Effect,-0.55
+851,tsunoda,Yuki Tsunoda,Japanese,6,0,0,125.0,-0.75,-0.66,2014-2026 Hybrid Era,-0.56
+509,merzario,Arturo Merzario,Italian,8,0,0,11.0,-0.89,-0.55,1950-1982 Ground Effect,-0.56
+859,bearman,Oliver Bearman,British,3,0,0,71.0,-0.73,-0.67,2014-2026 Hybrid Era,-0.56
+714,naspetti,Emanuele Naspetti,Italian,2,0,0,0.0,-0.72,-0.68,1983-2005 V10 / Turbo,-0.56
+101,andre_pilette,André Pilette,Belgian,5,0,0,2.0,-0.85,-0.59,1950-1982 Ground Effect,-0.56
+660,dumfries,Johnny Dumfries,British,1,0,0,3.0,-0.7,-0.7,1983-2005 V10 / Turbo,-0.56
+709,belmondo,Paul Belmondo,French,2,0,0,0.0,-0.72,-0.68,1983-2005 V10 / Turbo,-0.56
+208,homeier,Bill Homeier,American,3,0,0,1.0,-0.77,-0.65,1950-1982 Ground Effect,-0.56
+309,branson,Don Branson,American,2,0,0,3.0,-0.88,-0.56,1950-1982 Ground Effect,-0.56
+467,redman,Brian Redman,British,5,0,0,8.0,-0.83,-0.63,1950-1982 Ground Effect,-0.57
+682,weidler,Volker Weidler,German,1,0,0,0.0,-0.71,-0.71,1983-2005 V10 / Turbo,-0.57
+678,raphanel,Pierre-Henri Raphanel,French,1,0,0,0.0,-0.71,-0.71,1983-2005 V10 / Turbo,-0.57
+667,tarquini,Gabriele Tarquini,Italian,7,0,0,1.0,-0.79,-0.65,1983-2005 V10 / Turbo,-0.57
+80,sanesi,Consalvo Sanesi,Italian,2,0,0,3.0,-0.77,-0.67,1950-1982 Ground Effect,-0.57
+779,klien,Christian Klien,Austrian,4,0,0,14.0,-0.83,-0.62,1983-2005 V10 / Turbo,-0.57
+657,streiff,Philippe Streiff,French,5,0,0,11.0,-0.78,-0.66,1983-2005 V10 / Turbo,-0.57
+731,schiattarella,Domenico Schiattarella,Italian,2,0,0,0.0,-0.79,-0.68,1983-2005 V10 / Turbo,-0.58
+718,lamy,Pedro Lamy,Portuguese,4,0,0,1.0,-0.78,-0.68,1983-2005 V10 / Turbo,-0.58
+116,alan_brown,Alan Brown,British,3,0,0,2.0,-0.81,-0.66,1950-1982 Ground Effect,-0.58
+88,linden,Andy Linden,American,7,0,0,5.0,-0.8,-0.67,1950-1982 Ground Effect,-0.58
+735,inoue,Taki Inoue,Japanese,2,0,0,0.0,-0.79,-0.68,1983-2005 V10 / Turbo,-0.58
+670,dalmas,Yannick Dalmas,French,5,0,0,0.0,-0.79,-0.68,1983-2005 V10 / Turbo,-0.58
+66,dick_rathmann,Dick Rathmann,American,5,0,0,2.0,-0.92,-0.58,1950-1982 Ground Effect,-0.58
+860,colapinto,Franco Colapinto,Argentine,3,0,0,32.0,-0.81,-0.66,2014-2026 Hybrid Era,-0.58
+370,ricardo_rodriguez,Ricardo Rodríguez,Mexican,2,0,0,4.0,-0.87,-0.62,1950-1982 Ground Effect,-0.58
+282,cabianca,Giulio Cabianca,Italian,3,0,0,3.0,-0.95,-0.56,1950-1982 Ground Effect,-0.58
+736,deletraz,Jean-Denis Délétraz,Swiss,2,0,0,0.0,-0.79,-0.68,1983-2005 V10 / Turbo,-0.58
+109,landi,Chico Landi,Brazilian,4,0,0,1.5,-0.87,-0.64,1950-1982 Ground Effect,-0.59
+695,brabham,David Brabham,Australian,2,0,0,0.0,-0.8,-0.68,1983-2005 V10 / Turbo,-0.59
+239,gerini,Gerino Gerini,Italian,2,0,0,1.5,-0.86,-0.64,1950-1982 Ground Effect,-0.59
+304,bianchi,Lucien Bianchi,Belgian,6,0,0,6.0,-0.89,-0.61,1950-1982 Ground Effect,-0.59
+829,nasr,Felipe Nasr,Brazilian,2,0,0,29.0,-0.78,-0.71,2014-2026 Hybrid Era,-0.59
+591,giacomelli,Bruno Giacomelli,Italian,7,0,0,14.0,-0.89,-0.61,1950-1982 Ground Effect,-0.59
+729,montermini,Andrea Montermini,Italian,3,0,0,0.0,-0.82,-0.68,1983-2005 V10 / Turbo,-0.59
+41,faulkner,Walt Faulkner,American,5,0,0,1.0,-0.86,-0.65,1950-1982 Ground Effect,-0.59
+318,henry_taylor,Henry Taylor,British,3,0,0,3.0,-0.96,-0.56,1950-1982 Ground Effect,-0.59
+784,monteiro,Tiago Monteiro,Portuguese,2,0,0,7.0,-0.8,-0.68,2006-2013 V8 Aero,-0.59
+481,giunti,Ignazio Giunti,Italian,1,0,0,3.0,-0.75,-0.75,1950-1982 Ground Effect,-0.6
+507,wilson_fittipaldi,Wilson Fittipaldi,Brazilian,3,0,0,3.0,-0.82,-0.69,1950-1982 Ground Effect,-0.6
+676,schneider,Bernd Schneider,German,3,0,0,0.0,-0.81,-0.71,1983-2005 V10 / Turbo,-0.6
+737,diniz,Pedro Diniz,Brazilian,6,0,0,10.0,-0.81,-0.71,1983-2005 V10 / Turbo,-0.6
+39,chitwood,Joie Chitwood,American,1,0,0,1.0,-0.75,-0.75,1950-1982 Ground Effect,-0.6
+802,piquet_jr,Nelson Piquet Jr.,Brazilian,2,0,0,19.0,-0.9,-0.63,2006-2013 V8 Aero,-0.6
+713,mccarthy,Perry McCarthy,British,1,0,0,0.0,-0.75,-0.75,1983-2005 V10 / Turbo,-0.6
+710,chiesa,Andrea Chiesa,Swiss,1,0,0,0.0,-0.75,-0.75,1983-2005 V10 / Turbo,-0.6
+688,donnelly,Martin Donnelly,British,2,0,0,0.0,-0.81,-0.71,1983-2005 V10 / Turbo,-0.6
+691,barilla,Paolo Barilla,Italian,2,0,0,0.0,-0.81,-0.71,1983-2005 V10 / Turbo,-0.6
+773,pizzonia,Antônio Pizzonia,Brazilian,3,0,0,8.0,-0.84,-0.71,1983-2005 V10 / Turbo,-0.61
+466,adamich,Andrea de Adamich,Italian,5,0,0,6.0,-0.86,-0.69,1950-1982 Ground Effect,-0.61
+804,alguersuari,Jaime Alguersuari,Spanish,3,0,0,31.0,-0.93,-0.63,2006-2013 V8 Aero,-0.61
+755,zonta,Ricardo Zonta,Brazilian,5,0,0,3.0,-0.83,-0.71,1983-2005 V10 / Turbo,-0.61
+210,pollet,Jacques Pollet,French,2,0,0,0.0,-0.79,-0.77,1950-1982 Ground Effect,-0.62
+445,irwin,Chris Irwin,British,2,0,0,2.0,-0.86,-0.72,1950-1982 Ground Effect,-0.62
+406,mitter,Gerhard Mitter,German,3,0,0,3.0,-0.86,-0.71,1950-1982 Ground Effect,-0.62
+221,iglesias,Jesús Iglesias,Argentine,1,0,0,0.0,-0.77,-0.77,1950-1982 Ground Effect,-0.62
+212,marr,Leslie Marr,British,2,0,0,0.0,-0.79,-0.77,1950-1982 Ground Effect,-0.62
+218,bucci,Clemar Bucci,Argentine,2,0,0,0.0,-0.79,-0.77,1950-1982 Ground Effect,-0.62
+716,badoer,Luca Badoer,Italian,5,0,0,0.0,-0.91,-0.68,1983-2005 V10 / Turbo,-0.62
+235,sparken,Mike Sparken,French,1,0,0,0.0,-0.77,-0.77,1950-1982 Ground Effect,-0.62
+194,lang,Hermann Lang,German,2,0,0,2.0,-0.78,-0.77,1950-1982 Ground Effect,-0.62
+237,lucas,Jean Lucas,French,1,0,0,0.0,-0.77,-0.77,1950-1982 Ground Effect,-0.62
+766,enge,Tomáš Enge,Czech,1,0,0,0.0,-0.77,-0.77,1983-2005 V10 / Turbo,-0.62
+772,davidson,Anthony Davidson,British,4,0,0,0.0,-0.91,-0.67,2006-2013 V8 Aero,-0.62
+760,mazzacane,Gastón Mazzacane,Argentine,2,0,0,0.0,-0.78,-0.77,1983-2005 V10 / Turbo,-0.62
+443,bondurant,Bob Bondurant,American,2,0,0,3.0,-0.86,-0.72,1950-1982 Ground Effect,-0.62
+761,burti,Luciano Burti,Brazilian,2,0,0,0.0,-0.78,-0.77,1983-2005 V10 / Turbo,-0.62
+167,galvez,Oscar Gálvez,Argentine,1,0,0,2.0,-0.77,-0.77,1950-1982 Ground Effect,-0.62
+632,ghinzani,Piercarlo Ghinzani,Italian,8,0,0,2.0,-0.88,-0.71,1983-2005 V10 / Turbo,-0.63
+223,uria,Alberto Uria,Uruguayan,2,0,0,0.0,-0.8,-0.77,1950-1982 Ground Effect,-0.63
+837,vandoorne,Stoffel Vandoorne,Belgian,3,0,0,26.0,-0.81,-0.77,2014-2026 Hybrid Era,-0.63
+229,andrews,Keith Andrews,American,2,0,0,0.0,-0.8,-0.77,1950-1982 Ground Effect,-0.63
+785,friesacher,Patrick Friesacher,Austrian,1,0,0,3.0,-0.79,-0.79,1983-2005 V10 / Turbo,-0.63
+738,boullion,Jean-Christophe Boullion,French,1,0,0,3.0,-0.79,-0.79,1983-2005 V10 / Turbo,-0.63
+852,mick_schumacher,Mick Schumacher,German,2,0,0,12.0,-0.88,-0.74,2014-2026 Hybrid Era,-0.64
+202,crockett,Larry Crockett,American,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+207,duncan,Len Duncan,American,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+233,boyd,Johnny Boyd,American,6,0,0,4.0,-0.89,-0.72,1950-1982 Ground Effect,-0.64
+215,whitehouse,Bill Whitehouse,British,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+803,buemi,Sébastien Buemi,Swiss,3,0,0,29.0,-0.88,-0.73,2006-2013 V8 Aero,-0.64
+55,hoyt,Jerry Hoyt,American,4,0,0,0.0,-0.85,-0.77,1950-1982 Ground Effect,-0.64
+206,kladis,Danny Kladis,American,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+178,niday,Cal Niday,American,3,0,0,0.0,-0.84,-0.77,1950-1982 Ground Effect,-0.64
+786,albers,Christijan Albers,Dutch,3,0,0,4.0,-0.85,-0.76,2006-2013 V8 Aero,-0.64
+89,ball,Bobby Ball,American,2,0,0,2.0,-0.84,-0.78,1950-1982 Ground Effect,-0.64
+201,daponte,Jorge Daponte,Argentine,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+204,armi,Frank Armi,American,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+213,thorne,Leslie Thorne,British,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+354,hall,Jim Hall,American,4,0,0,3.0,-0.92,-0.71,1950-1982 Ground Effect,-0.64
+238,piotti,Luigi Piotti,Italian,3,0,0,0.0,-0.84,-0.77,1950-1982 Ground Effect,-0.64
+854,zhou,Guanyu Zhou,Chinese,3,0,0,16.0,-0.8,-0.79,2014-2026 Hybrid Era,-0.64
+211,beauman,Don Beauman,British,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+230,russo,Eddie Russo,American,4,0,0,0.0,-0.85,-0.77,1950-1982 Ground Effect,-0.64
+200,loyer,Roger Loyer,French,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+611,surer,Marc Surer,Swiss,8,0,0,17.0,-0.85,-0.76,1950-1982 Ground Effect,-0.64
+217,riseley_prichard,John Riseley-Prichard,British,1,0,0,0.0,-0.8,-0.8,1950-1982 Ground Effect,-0.64
+63,agabashian,Fred Agabashian,American,8,0,0,1.5,-0.86,-0.77,1950-1982 Ground Effect,-0.65
+117,brandon,Eric Brandon,British,2,0,0,0.0,-0.84,-0.8,1950-1982 Ground Effect,-0.65
+125,reece,Jimmy Reece,American,6,0,0,0.0,-0.88,-0.77,1950-1982 Ground Effect,-0.65
+205,connor,Pat O'Connor,American,5,0,0,0.0,-0.88,-0.77,1950-1982 Ground Effect,-0.65
+103,simon,André Simon,French,5,0,0,0.0,-0.88,-0.77,1950-1982 Ground Effect,-0.65
+21,peter_walker,Peter Walker,British,3,0,0,0.0,-0.88,-0.77,1950-1982 Ground Effect,-0.65
+87,ayulo,Manny Ayulo,American,4,0,0,2.0,-0.86,-0.78,1950-1982 Ground Effect,-0.65
+22,rolt,Tony Rolt,British,3,0,0,0.0,-0.87,-0.77,1950-1982 Ground Effect,-0.65
+72,chaboud,Eugène Chaboud,French,2,0,0,1.0,-0.88,-0.75,1950-1982 Ground Effect,-0.65
+745,marques,Tarso Marques,Brazilian,3,0,0,0.0,-0.87,-0.77,1983-2005 V10 / Turbo,-0.65
+199,fitch,John Fitch,American,2,0,0,0.0,-0.87,-0.77,1950-1982 Ground Effect,-0.65
+203,elisian,Ed Elisian,American,5,0,0,0.0,-0.88,-0.77,1950-1982 Ground Effect,-0.65
+862,bortoleto,Gabriel Bortoleto,Brazilian,2,0,0,29.0,-0.82,-0.81,2014-2026 Hybrid Era,-0.65
+127,fonder,George Fonder,American,2,0,0,0.0,-0.84,-0.8,1950-1982 Ground Effect,-0.65
+756,gene,Marc Gené,Spanish,4,0,0,5.0,-0.84,-0.79,1983-2005 V10 / Turbo,-0.65
+145,mcalpine,Kenneth McAlpine,British,3,0,0,0.0,-0.87,-0.77,1950-1982 Ground Effect,-0.65
+170,birger,Pablo Birger,Argentine,2,0,0,0.0,-0.87,-0.77,1950-1982 Ground Effect,-0.65
+118,macklin,Lance Macklin,British,4,0,0,0.0,-0.86,-0.77,1950-1982 Ground Effect,-0.65
+64,jackson,Jimmy Jackson,American,2,0,0,0.0,-0.83,-0.8,1950-1982 Ground Effect,-0.65
+752,tuero,Esteban Tuero,Argentine,1,0,0,0.0,-0.81,-0.81,1983-2005 V10 / Turbo,-0.65
+252,titterington,Desmond Titterington,British,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+520,williamson,Roger Williamson,British,1,0,0,0.0,-0.83,-0.83,1950-1982 Ground Effect,-0.66
+644,schlesser,Jean-Louis Schlesser,French,1,0,0,0.0,-0.82,-0.82,1983-2005 V10 / Turbo,-0.66
+743,rosset,Ricardo Rosset,Brazilian,2,0,0,0.0,-0.85,-0.81,1983-2005 V10 / Turbo,-0.66
+254,scott_Brown,Archie Scott Brown,British,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+379,hansgen,Walt Hansgen,American,3,0,0,2.0,-0.92,-0.74,1950-1982 Ground Effect,-0.66
+674,larrauri,Oscar Larrauri,Argentine,1,0,0,0.0,-0.82,-0.82,1983-2005 V10 / Turbo,-0.66
+249,scotti,Piero Scotti,Italian,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+128,johnson,Eddie Johnson,American,9,0,0,1.0,-0.91,-0.76,1950-1982 Ground Effect,-0.66
+241,oscar_gonzalez,Óscar González,Uruguayan,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+741,magnussen,Jan Magnussen,Danish,3,0,0,1.0,-0.87,-0.78,1983-2005 V10 / Turbo,-0.66
+662,berg,Allen Berg,Canadian,1,0,0,0.0,-0.82,-0.82,1983-2005 V10 / Turbo,-0.66
+255,emery,Paul Emery,British,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+856,sargeant,Logan Sargeant,American,2,0,0,1.0,-0.84,-0.82,2014-2026 Hybrid Era,-0.66
+521,mcrae,Graham McRae,New Zealander,1,0,0,0.0,-0.83,-0.83,1950-1982 Ground Effect,-0.66
+228,templeman,Shorty Templeman,American,3,0,0,0.0,-0.9,-0.77,1950-1982 Ground Effect,-0.66
+251,chapman,Colin Chapman,British,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+220,volonterio,Ottorino Volonterio,Swiss,3,0,0,0.0,-0.85,-0.8,1950-1982 Ground Effect,-0.66
+256,milhoux,André Milhoux,Belgian,1,0,0,0.0,-0.82,-0.82,1950-1982 Ground Effect,-0.66
+666,campos,Adrián Campos,Spanish,2,0,0,0.0,-0.83,-0.82,1983-2005 V10 / Turbo,-0.66
+12,claes,Johnny Claes,Belgian,5,0,0,0.0,-0.9,-0.77,1950-1982 Ground Effect,-0.66
+746,nakano,Shinji Nakano,Japanese,2,0,0,2.0,-0.83,-0.81,1983-2005 V10 / Turbo,-0.66
+855,de_vries,Nyck de Vries,Dutch,2,0,0,2.0,-0.82,-0.82,2014-2026 Hybrid Era,-0.66
+512,bueno,Luiz Bueno,Brazilian,1,0,0,0.0,-0.83,-0.83,1950-1982 Ground Effect,-0.66
+547,brise,Tony Brise,British,1,0,0,1.0,-0.84,-0.84,1950-1982 Ground Effect,-0.67
+226,herman,Al Herman,American,5,0,0,0.0,-0.92,-0.77,1950-1982 Ground Effect,-0.67
+444,ligier,Guy Ligier,French,2,0,0,1.0,-0.89,-0.79,1950-1982 Ground Effect,-0.67
+787,liuzzi,Vitantonio Liuzzi,Italian,6,0,0,26.0,-0.9,-0.79,2006-2013 V8 Aero,-0.67
+172,daywalt,Jimmy Daywalt,American,6,0,0,0.0,-0.92,-0.77,1950-1982 Ground Effect,-0.67
+173,mccoy,Ernie McCoy,American,2,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+651,bellof,Stefan Bellof,German,2,0,0,4.0,-0.87,-0.81,1983-2005 V10 / Turbo,-0.67
+181,georges_berger,Georges Berger,Belgian,2,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+493,lennep,Gijs van Lennep,Dutch,4,0,0,2.0,-0.9,-0.78,1950-1982 Ground Effect,-0.67
+186,nuckey,Rodney Nuckey,British,2,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+231,ray_crawford,Ray Crawford,American,3,0,0,0.0,-0.93,-0.77,1950-1982 Ground Effect,-0.67
+668,forini,Franco Forini,Swiss,1,0,0,0.0,-0.84,-0.84,1983-2005 V10 / Turbo,-0.67
+783,karthikeyan,Narain Karthikeyan,Indian,3,0,0,5.0,-0.96,-0.74,2006-2013 V8 Aero,-0.67
+180,wacker,Fred Wacker,American,2,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+54,webb,Travis Webb,American,4,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+839,giovinazzi,Antonio Giovinazzi,Italian,4,0,0,21.0,-0.9,-0.79,2014-2026 Hybrid Era,-0.67
+665,fabre,Pascal Fabre,French,1,0,0,0.0,-0.84,-0.84,1983-2005 V10 / Turbo,-0.67
+608,lammers,Jan Lammers,Dutch,5,0,0,0.0,-0.95,-0.75,1950-1982 Ground Effect,-0.67
+130,bob_scott,Bob Scott,American,3,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+160,helfrich,Theo Helfrich,German,3,0,0,0.0,-0.88,-0.8,1950-1982 Ground Effect,-0.67
+753,takagi,Toranosuke Takagi,Japanese,2,0,0,0.0,-0.86,-0.81,1983-2005 V10 / Turbo,-0.67
+232,keller,Al Keller,American,5,0,0,0.0,-0.96,-0.77,1950-1982 Ground Effect,-0.68
+460,fisher,Mike Fisher,American,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+98,griffith,Cliff Griffith,American,3,0,0,0.0,-0.9,-0.82,1950-1982 Ground Effect,-0.68
+447,botha,Luki Botha,South African,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+456,hart,Brian Hart,British,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+487,galli,Nanni Galli,Italian,3,0,0,0.0,-0.87,-0.83,1950-1982 Ground Effect,-0.68
+842,brendon_hartley,Brendon Hartley,New Zealander,2,0,0,4.0,-0.87,-0.84,2014-2026 Hybrid Era,-0.68
+108,swaters,Jacques Swaters,American,3,0,0,0.0,-0.92,-0.8,1950-1982 Ground Effect,-0.68
+50,hartley,Gene Hartley,American,8,0,0,0.0,-0.92,-0.8,1950-1982 Ground Effect,-0.68
+452,rees,Alan Rees,British,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+464,williams,Jonathan Williams,British,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+258,leston,Les Leston,British,2,0,0,0.0,-0.88,-0.82,1950-1982 Ground Effect,-0.68
+95,stevenson,Chuck Stevenson,American,5,0,0,0.0,-0.9,-0.8,1950-1982 Ground Effect,-0.68
+6,gerard,Bob Gerard,British,6,0,0,0.0,-0.9,-0.8,1950-1982 Ground Effect,-0.68
+175,teague,Marshall Teague,American,3,0,0,0.0,-0.9,-0.8,1950-1982 Ground Effect,-0.68
+617,needell,Tiff Needell,British,1,0,0,0.0,-0.85,-0.85,1950-1982 Ground Effect,-0.68
+834,jolyon_palmer,Jolyon Palmer,British,2,0,0,9.0,-0.85,-0.84,2014-2026 Hybrid Era,-0.68
+826,ericsson,Marcus Ericsson,Swedish,5,0,0,18.0,-0.9,-0.8,2014-2026 Hybrid Era,-0.68
+475,miles,John Miles,British,2,0,0,2.0,-0.89,-0.82,1950-1982 Ground Effect,-0.68
+497,beuttler,Mike Beuttler,British,3,0,0,0.0,-0.87,-0.83,1950-1982 Ground Effect,-0.68
+338,creus,Antonio Creus,Spanish,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+355,drake,Bob Drake,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+836,haryanto,Rio Haryanto,Indonesian,1,0,0,0.0,-0.86,-0.86,2014-2026 Hybrid Era,-0.69
+335,munaron,Gino Munaron,Italian,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+353,owen,Arthur Owen,British,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+778,baumgartner,Zsolt Baumgartner,Hungarian,2,0,0,1.0,-0.9,-0.84,1983-2005 V10 / Turbo,-0.69
+844,sirotkin,Sergey Sirotkin,Russian,1,0,0,1.0,-0.86,-0.86,2014-2026 Hybrid Era,-0.69
+272,beaufort,Carel Godin de Beaufort,Dutch,8,0,0,4.0,-0.96,-0.78,1950-1982 Ground Effect,-0.69
+334,bonomi,Roberto Bonomi,Argentine,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+346,weiler,Wayne Weiler,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+350,gamble,Fred Gamble,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+357,lewis,Jackie Lewis,British,2,0,0,3.0,-0.9,-0.83,1950-1982 Ground Effect,-0.69
+67,dinsmore,Duke Dinsmore,American,4,0,0,0.0,-0.91,-0.82,1950-1982 Ground Effect,-0.69
+337,chimeri,Ettore Chimeri,Venezuelan,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+780,pantano,Giorgio Pantano,Italian,1,0,0,0.0,-0.86,-0.86,1983-2005 V10 / Turbo,-0.69
+344,tingelstad,Bud Tingelstad,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+848,latifi,Nicholas Latifi,Canadian,3,0,0,9.0,-0.92,-0.82,2014-2026 Hybrid Era,-0.69
+781,bruni,Gianmaria Bruni,Italian,1,0,0,0.0,-0.86,-0.86,1983-2005 V10 / Turbo,-0.69
+835,wehrlein,Pascal Wehrlein,German,2,0,0,6.0,-0.86,-0.86,2014-2026 Hybrid Era,-0.69
+620,thackwell,Mike Thackwell,New Zealander,2,0,0,0.0,-0.88,-0.85,1983-2005 V10 / Turbo,-0.69
+345,hurtubise,Jim Hurtubise,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+333,larreta,Alberto Rodriguez Larreta,Argentine,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+341,daigh,Chuck Daigh,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+349,drogo,Piero Drogo,Italian,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+654,rothengatter,Huub Rothengatter,Dutch,3,0,0,0.0,-0.92,-0.82,1983-2005 V10 / Turbo,-0.69
+342,reventlow,Lance Reventlow,American,1,0,0,0.0,-0.86,-0.86,1950-1982 Ground Effect,-0.69
+514,keizan,Eddie Keizan,South African,3,0,0,0.0,-0.93,-0.83,1950-1982 Ground Effect,-0.7
+861,doohan,Jack Doohan,Australian,2,0,0,0.0,-0.9,-0.86,2014-2026 Hybrid Era,-0.7
+77,biondetti,Clemente Biondetti,Italian,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+20,martin,Eugène Martin,French,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+462,pease,Al Pease,Canadian,2,0,0,0.0,-0.91,-0.85,1950-1982 Ground Effect,-0.7
+33,pian,Alfredo Pián,Argentine,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+246,garrett,Billy Garrett,American,2,0,0,0.0,-0.95,-0.82,1950-1982 Ground Effect,-0.7
+434,charlton,Dave Charlton,South African,8,0,0,0.0,-0.93,-0.83,1950-1982 Ground Effect,-0.7
+635,baldi,Mauro Baldi,Italian,4,0,0,5.0,-0.93,-0.83,1983-2005 V10 / Turbo,-0.7
+227,weyant,Chuck Weyant,American,4,0,0,0.0,-1.0,-0.77,1950-1982 Ground Effect,-0.7
+61,levrett,Bayliss Levrett,American,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+69,pagani,Nello Pagani,Italian,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+516,purley,David Purley,British,2,0,0,0.0,-0.93,-0.83,1950-1982 Ground Effect,-0.7
+641,sullivan,Danny Sullivan,American,1,0,0,2.0,-0.88,-0.88,1983-2005 V10 / Turbo,-0.7
+247,tolan,Johnnie Tolan,American,3,0,0,0.0,-0.94,-0.82,1950-1982 Ground Effect,-0.7
+11,fry,Joe Fry,British,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+336,estefano,Nasif Estéfano,Argentine,2,0,0,0.0,-0.89,-0.86,1950-1982 Ground Effect,-0.7
+17,crossley,Geoff Crossley,British,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+799,markus_winkelhock,Markus Winkelhock,German,1,0,0,0.0,-0.87,-0.87,2006-2013 V8 Aero,-0.7
+433,pretorius,Jackie Pretorius,South African,3,0,0,0.0,-0.92,-0.83,1950-1982 Ground Effect,-0.7
+73,pozzi,Charles Pozzi,French,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+7,harrison,Cuth Harrison,British,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+453,moser,Silvio Moser,Swiss,5,0,0,3.0,-0.9,-0.85,1950-1982 Ground Effect,-0.7
+790,speed,Scott Speed,American,2,0,0,0.0,-0.89,-0.87,2006-2013 V8 Aero,-0.7
+253,halford,Bruce Halford,British,4,0,0,0.0,-0.96,-0.82,1950-1982 Ground Effect,-0.7
+62,cantrell,Bill Cantrell,American,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+9,hampshire,David Hampshire,British,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+45,fohr,Myron Fohr,American,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+56,ader,Walt Ader,American,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+23,leslie_johnson,Leslie Johnson,British,1,0,0,0.0,-0.87,-0.87,1950-1982 Ground Effect,-0.7
+79,comotti,Franco Comotti,Italian,2,0,0,0.0,-0.88,-0.87,1950-1982 Ground Effect,-0.7
+92,force,Gene Force,American,2,0,0,0.0,-0.93,-0.86,1950-1982 Ground Effect,-0.71
+559,vonlanthen,Jo Vonlanthen,Swiss,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+162,flinterman,Jan Flinterman,Dutch,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+245,christie,Bob Christie,American,5,0,0,0.0,-0.98,-0.82,1950-1982 Ground Effect,-0.71
+156,balsa,Marcel Balsa,French,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+149,aston,Bill Aston,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+163,lof,Dries van der Lof,Dutch,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+146,bianco,Gino Bianco,Brazilian,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+459,jo_schlesser,Jo Schlesser,French,2,0,0,0.0,-0.93,-0.85,1950-1982 Ground Effect,-0.71
+16,murray,David Murray,British,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+548,wunderink,Roelof Wunderink,Dutch,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+517,opel,Rikky von Opel,Liechtensteiner,2,0,0,0.0,-0.95,-0.83,1950-1982 Ground Effect,-0.71
+133,tornaco,Charles de Tornaco,Belgian,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+536,lombardi,Lella Lombardi,Italian,2,0,0,0.5,-0.91,-0.86,1950-1982 Ground Effect,-0.71
+134,laurent,Roger Laurent,Belgian,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+788,doornbos,Robert Doornbos,Dutch,2,0,0,0.0,-0.9,-0.88,1983-2005 V10 / Turbo,-0.71
+808,bruno_senna,Bruno Senna,Brazilian,3,0,0,33.0,-0.94,-0.84,2006-2013 V8 Aero,-0.71
+159,schoeller,Rudolf Schoeller,Swiss,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+52,mcdowell,Johnny McDowell,American,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+30,rol,Franco Rol,Italian,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+494,walker,David Walker,Australian,2,0,0,0.0,-0.89,-0.88,1950-1982 Ground Effect,-0.71
+161,peters,Josef Peters,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+143,downing,Ken Downing,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+551,magee,Damien Magee,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+479,roig,Alex Soler-Roig,Spanish,2,0,0,0.0,-0.89,-0.88,1950-1982 Ground Effect,-0.71
+242,scarlatti,Giorgio Scarlatti,Italian,6,0,0,1.0,-0.98,-0.82,1950-1982 Ground Effect,-0.71
+126,rigsby,Jim Rigsby,American,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+136,obrien,Robert O'Brien,American,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+81,pietsch,Paul Pietsch,German,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+150,riess,Fritz Riess,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+144,graham_whitehead,Graham Whitehead,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+458,ahrens,Kurt Ahrens,German,2,0,0,0.0,-0.93,-0.85,1950-1982 Ground Effect,-0.71
+121,ulmen,Toni Ulmen,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+42,george_connor,George Connor,American,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+59,banks,Henry Banks,American,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+554,morgan,Dave Morgan,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+555,crawford,Jim Crawford,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+457,hahne,Hubert Hahne,German,2,0,0,0.0,-0.93,-0.85,1950-1982 Ground Effect,-0.71
+552,fushida,Hiroshi Fushida,Japanese,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+244,veith,Bob Veith,American,5,0,0,0.0,-0.98,-0.82,1950-1982 Ground Effect,-0.71
+57,holmes,Jackie Holmes,American,2,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+740,lavaggi,Giovanni Lavaggi,Italian,2,0,0,0.0,-0.89,-0.89,1983-2005 V10 / Turbo,-0.71
+545,tunmer,Guy Tunmer,South African,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+151,niedermayr,Helmut Niedermayr,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+305,lovely,Pete Lovely,American,4,0,0,0.0,-0.93,-0.86,1950-1982 Ground Effect,-0.71
+492,barber,Skip Barber,American,2,0,0,0.0,-0.89,-0.88,1950-1982 Ground Effect,-0.71
+550,palm,Torsten Palm,Swedish,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+148,cantoni,Eitel Cantoni,Uruguayan,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+155,brudes,Adolf Brudes,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+137,gaze,Tony Gaze,Australian,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+498,marko,Helmut Marko,Austrian,2,0,0,0.0,-0.89,-0.88,1950-1982 Ground Effect,-0.71
+352,vic_wilson,Vic Wilson,British,2,0,0,0.0,-0.93,-0.86,1950-1982 Ground Effect,-0.71
+60,schindler,Bill Schindler,American,3,0,0,0.0,-0.92,-0.87,1950-1982 Ground Effect,-0.71
+395,lederle,Neville Lederle,South African,2,0,0,1.0,-0.9,-0.88,1950-1982 Ground Effect,-0.71
+537,nicholson,John Nicholson,New Zealander,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+427,bucknum,Ronnie Bucknum,American,3,0,0,2.0,-0.92,-0.86,1950-1982 Ground Effect,-0.71
+138,charrington,Robin Montgomerie-Charrington,British,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+152,klenk,Hans Klenk,German,1,0,0,0.0,-0.89,-0.89,1950-1982 Ground Effect,-0.71
+415,solana,Moisés Solana,Mexican,6,0,0,0.0,-0.94,-0.85,1950-1982 Ground Effect,-0.71
+504,posey,Sam Posey,American,2,0,0,0.0,-0.89,-0.88,1950-1982 Ground Effect,-0.71
+546,evans,Bob Evans,British,2,0,0,0.0,-0.92,-0.89,1950-1982 Ground Effect,-0.72
+819,gutierrez,Esteban Gutiérrez,Mexican,3,0,0,6.0,-0.95,-0.86,2014-2026 Hybrid Era,-0.72
+78,louveau,Henri Louveau,French,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+70,branca,Toni Branca,Swiss,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+47,hellings,Mack Hellings,American,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+461,wietzes,Eppie Wietzes,Canadian,2,0,0,0.0,-0.96,-0.85,1950-1982 Ground Effect,-0.72
+14,kelly,Joe Kelly,Irish,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+817,vergne,Jean-Éric Vergne,French,3,0,0,51.0,-0.95,-0.85,2006-2013 V8 Aero,-0.72
+451,hobbs,David Hobbs,British,4,0,0,0.0,-0.96,-0.85,1950-1982 Ground Effect,-0.72
+10,shawe_taylor,Brian Shawe Taylor,British,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+53,walt_brown,Walt Brown,American,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+424,taylor,John Taylor,British,2,0,0,1.0,-0.9,-0.9,1950-1982 Ground Effect,-0.72
+793,yamamoto,Sakon Yamamoto,Japanese,3,0,0,0.0,-0.94,-0.87,2006-2013 V8 Aero,-0.72
+612,zunino,Ricardo Zunino,Argentine,3,0,0,0.0,-0.97,-0.85,1950-1982 Ground Effect,-0.72
+248,turner,Jack Turner,American,4,0,0,0.0,-1.01,-0.82,1950-1982 Ground Effect,-0.72
+71,levegh,Pierre Levegh,French,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+739,papis,Massimiliano Papis,Italian,1,0,0,0.0,-0.9,-0.9,1983-2005 V10 / Turbo,-0.72
+403,tingle,Sam Tingle,Rhodesian,6,0,0,0.0,-0.95,-0.85,1950-1982 Ground Effect,-0.72
+561,leclere,Michel Leclère,French,2,0,0,0.0,-0.92,-0.89,1950-1982 Ground Effect,-0.72
+811,chandhok,Karun Chandhok,Indian,2,0,0,0.0,-0.95,-0.85,2006-2013 V8 Aero,-0.72
+75,guy_mairesse,Guy Mairesse,French,2,0,0,0.0,-0.94,-0.87,1950-1982 Ground Effect,-0.72
+580,keegan,Rupert Keegan,British,4,0,0,0.0,-1.0,-0.85,1950-1982 Ground Effect,-0.73
+85,hirt,Peter Hirt,Swiss,3,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+502,craft,Chris Craft,British,1,0,0,0.0,-0.91,-0.91,1950-1982 Ground Effect,-0.73
+147,crook,Tony Crook,British,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+409,raby,Ian Raby,British,3,0,0,0.0,-0.93,-0.9,1950-1982 Ground Effect,-0.73
+495,mazet,François Mazet,French,1,0,0,0.0,-0.91,-0.91,1950-1982 Ground Effect,-0.73
+135,legat,Arthur Legat,Belgian,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+154,heeks,Willi Heeks,German,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+153,klodwig,Ernst Klodwig,East German,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+91,nalon,Duke Nalon,American,3,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+122,terra,Max de Terra,Swiss,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+84,abecassis,George Abecassis,British,2,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+560,zorzi,Renzo Zorzi,Italian,3,0,0,1.0,-0.94,-0.89,1950-1982 Ground Effect,-0.73
+681,foitek,Gregor Foitek,Swiss,1,0,0,0.0,-0.91,-0.91,1983-2005 V10 / Turbo,-0.73
+188,barth,Edgar Barth,German,6,0,0,0.0,-0.98,-0.86,1950-1982 Ground Effect,-0.73
+96,miller,Chet Miller,American,2,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+105,duncan_hamilton,Duncan Hamilton,British,3,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+425,gardner,Frank Gardner,Australian,2,0,0,0.0,-0.94,-0.9,1950-1982 Ground Effect,-0.73
+602,lees,Geoff Lees,British,3,0,0,0.0,-1.0,-0.85,1950-1982 Ground Effect,-0.73
+120,hans_stuck,Hans von Stuck,German,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+343,ruby,Lloyd Ruby,American,2,0,0,0.0,-0.99,-0.86,1950-1982 Ground Effect,-0.73
+351,thiele,Alfonso Thiele,Italian,2,0,0,0.0,-0.99,-0.86,1950-1982 Ground Effect,-0.73
+100,james,Joe James,American,2,0,0,0.0,-0.95,-0.89,1950-1982 Ground Effect,-0.73
+496,jean,Max Jean,French,1,0,0,0.0,-0.91,-0.91,1950-1982 Ground Effect,-0.73
+287,dempsey_wilson,Dempsey Wilson,American,2,0,0,0.0,-0.97,-0.86,1950-1982 Ground Effect,-0.73
+139,carini,Piero Carini,Italian,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+472,brack,Bill Brack,Canadian,3,0,0,0.0,-0.95,-0.88,1950-1982 Ground Effect,-0.73
+158,krause,Rudolf Krause,East German,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+328,cabral,Mário de Araújo Cabral,Portuguese,4,0,0,0.0,-0.97,-0.86,1950-1982 Ground Effect,-0.73
+503,Cannoc,John Cannon,Canadian,1,0,0,0.0,-0.91,-0.91,1950-1982 Ground Effect,-0.73
+157,bechem,Günther Bechem,German,2,0,0,0.0,-0.93,-0.89,1950-1982 Ground Effect,-0.73
+470,bell,Derek Bell,British,6,0,0,1.0,-0.95,-0.88,1950-1982 Ground Effect,-0.73
+510,migault,François Migault,French,3,0,0,0.0,-0.95,-0.88,1950-1982 Ground Effect,-0.73
+757,sarrazin,Stéphane Sarrazin,French,1,0,0,0.0,-0.91,-0.91,1983-2005 V10 / Turbo,-0.73
+322,greene,Keith Greene,British,3,0,0,0.0,-0.99,-0.86,1950-1982 Ground Effect,-0.73
+791,ide,Yuji Ide,Japanese,1,0,0,0.0,-0.92,-0.92,2006-2013 V8 Aero,-0.74
+418,blokdyk,Trevor Blokdyk,South African,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+642,cecotto,Johnny Cecotto,Venezuelan,2,0,0,1.0,-0.93,-0.92,1983-2005 V10 / Turbo,-0.74
+417,monarch,Thomas Monarch,American,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+558,lunger,Brett Lunger,American,4,0,0,0.0,-0.97,-0.89,1950-1982 Ground Effect,-0.74
+653,gartner,Jo Gartner,Austrian,1,0,0,0.0,-0.92,-0.92,1983-2005 V10 / Turbo,-0.74
+399,serrurier,Doug Serrurier,South African,2,0,0,0.0,-0.94,-0.92,1950-1982 Ground Effect,-0.74
+387,settember,Tony Settember,American,2,0,0,0.0,-0.94,-0.92,1950-1982 Ground Effect,-0.74
+187,seidel,Wolfgang Seidel,German,5,0,0,0.0,-1.0,-0.86,1950-1982 Ground Effect,-0.74
+268,george,Elmer George,American,1,0,0,0.0,-0.93,-0.93,1950-1982 Ground Effect,-0.74
+398,pieterse,Ernie Pieterse,South African,2,0,0,0.0,-0.94,-0.92,1950-1982 Ground Effect,-0.74
+539,ashley,Ian Ashley,British,4,0,0,0.0,-0.98,-0.89,1950-1982 Ground Effect,-0.74
+391,seiffert,Günther Seiffert,German,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+414,vos,Ernie de Vos,Dutch,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+270,mackay-fraser,Herbert MacKay-Fraser,American,1,0,0,0.0,-0.93,-0.93,1950-1982 Ground Effect,-0.74
+416,dochnal,Frank Dochnal,American,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+269,macdowel,Mike MacDowel,British,1,0,0,0.0,-0.93,-0.93,1950-1982 Ground Effect,-0.74
+419,niemann,Brausch Niemann,South African,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+477,eaton,George Eaton,Canadian,3,0,0,0.0,-0.95,-0.91,1950-1982 Ground Effect,-0.74
+800,nakajima,Kazuki Nakajima,Japanese,3,0,0,9.0,-0.99,-0.87,2006-2013 V8 Aero,-0.74
+412,broeker,Peter Broeker,Canadian,1,0,0,0.0,-0.92,-0.92,1950-1982 Ground Effect,-0.74
+386,abate,Carlo Abate,Italian,2,0,0,0.0,-0.94,-0.92,1950-1982 Ground Effect,-0.74
+274,england,Paul England,Australian,1,0,0,0.0,-0.93,-0.93,1950-1982 Ground Effect,-0.74
+556,ertl,Harald Ertl,Austrian,4,0,0,0.0,-0.97,-0.89,1950-1982 Ground Effect,-0.74
+792,montagny,Franck Montagny,French,1,0,0,0.0,-0.92,-0.92,2006-2013 V8 Aero,-0.74
+526,ian_scheckter,Ian Scheckter,South African,4,0,0,0.0,-0.98,-0.89,1950-1982 Ground Effect,-0.74
+538,wilds,Mike Wilds,British,2,0,0,0.0,-0.98,-0.89,1950-1982 Ground Effect,-0.74
+265,sachs,Eddie Sachs,American,4,0,0,0.0,-1.02,-0.86,1950-1982 Ground Effect,-0.74
+264,edmunds,Don Edmunds,American,1,0,0,0.0,-0.93,-0.93,1950-1982 Ground Effect,-0.74
+420,klerk,Peter de Klerk,South African,4,0,0,0.0,-0.96,-0.92,1950-1982 Ground Effect,-0.75
+751,fontana,Norberto Fontana,Argentine,1,0,0,0.0,-0.94,-0.94,1983-2005 V10 / Turbo,-0.75
+320,piper,David Piper,British,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+621,manfred_winkelhock,Manfred Winkelhock,German,4,0,0,2.0,-0.97,-0.92,1983-2005 V10 / Turbo,-0.75
+321,mike_taylor,Mike Taylor,British,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+288,foyt,Anthony Foyt,American,3,0,0,0.0,-1.05,-0.86,1950-1982 Ground Effect,-0.75
+317,bristow,Chris Bristow,British,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+528,schuppan,Vern Schuppan,Australian,3,0,0,0.0,-1.0,-0.89,1950-1982 Ground Effect,-0.75
+776,firman,Ralph Firman,Irish,1,0,0,1.0,-0.94,-0.94,1983-2005 V10 / Turbo,-0.75
+649,hesnault,François Hesnault,French,2,0,0,0.0,-0.97,-0.92,1983-2005 V10 / Turbo,-0.75
+295,burgess,Ian Burgess,British,6,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+378,sharp,Hap Sharp,American,4,0,0,0.0,-0.98,-0.9,1950-1982 Ground Effect,-0.75
+296,stacey,Alan Stacey,British,3,0,0,0.0,-1.05,-0.86,1950-1982 Ground Effect,-0.75
+308,mcwithey,Jim McWithey,American,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+310,grim,Bobby Grim,American,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+311,amick,Red Amick,American,2,0,0,0.0,-1.03,-0.86,1950-1982 Ground Effect,-0.75
+553,henton,Brian Henton,British,4,0,0,0.0,-1.01,-0.89,1950-1982 Ground Effect,-0.75
+291,sutton,Len Sutton,American,3,0,0,0.0,-1.05,-0.86,1950-1982 Ground Effect,-0.75
+271,naylor,Brian Naylor,British,5,0,0,0.0,-1.04,-0.86,1950-1982 Ground Effect,-0.75
+643,corrado_fabi,Corrado Fabi,Italian,2,0,0,0.0,-0.96,-0.92,1983-2005 V10 / Turbo,-0.75
+421,prophet,David Prophet,British,2,0,0,0.0,-0.95,-0.92,1950-1982 Ground Effect,-0.75
+774,wilson,Justin Wilson,British,1,0,0,1.0,-0.94,-0.94,1983-2005 V10 / Turbo,-0.75
+368,campbell-jones,John Campbell-Jones,British,3,0,0,0.0,-1.0,-0.92,1950-1982 Ground Effect,-0.76
+422,driver,Paddy Driver,South African,2,0,0,0.0,-0.99,-0.92,1950-1982 Ground Effect,-0.76
+813,ambrosio,Jérôme d'Ambrosio,Belgian,2,0,0,0.0,-1.07,-0.85,2006-2013 V8 Aero,-0.76
+574,stuppacher,Otto Stuppacher,Austrian,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+564,kessel,Loris Kessel,Swiss,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+573,andersson,Conny Andersson,Swedish,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+360,collomb,Bernard Collomb,French,3,0,0,0.0,-1.0,-0.92,1950-1982 Ground Effect,-0.76
+578,hasemi,Masahiro Hasemi,Japanese,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+570,pesenti_rossi,Alessandro Pesenti-Rossi,Italian,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+576,brown,Warwick Brown,Australian,1,0,0,0.0,-0.95,-0.95,1950-1982 Ground Effect,-0.76
+562,hoffmann,Ingo Hoffmann,Brazilian,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+833,rossi,Alexander Rossi,American,1,0,0,0.0,-0.96,-0.96,2014-2026 Hybrid Era,-0.77
+192,bauer,Erwin Bauer,German,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+174,mantz,Johnny Mantz,American,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+850,pietro_fittipaldi,Pietro Fittipaldi,Brazilian,1,0,0,0.0,-0.96,-0.96,2014-2026 Hybrid Era,-0.77
+195,scherrer,Albert Scherrer,Swiss,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+182,jimmy_stewart,Jimmy Stewart,British,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+575,ribeiro,Alex Ribeiro,Brazilian,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+369,starrabba,Gaetano Starrabba,Italian,2,0,0,0.0,-1.02,-0.92,1950-1982 Ground Effect,-0.77
+168,john_barber,John Barber,British,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+193,loof,Ernst Loof,German,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+275,gibson,Dick Gibson,British,2,0,0,0.0,-1.0,-0.93,1950-1982 Ground Effect,-0.77
+191,adolff,Kurt Adolff,German,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+577,takahara,Noritake Takahara,Japanese,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+93,scarborough,Carl Scarborough,American,2,0,0,0.0,-0.98,-0.96,1950-1982 Ground Effect,-0.77
+567,neve,Patrick Nève,Belgian,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+579,hoshino,Kazuyoshi Hoshino,Japanese,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+541,perkins,Larry Perkins,Australian,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+627,salazar,Eliseo Salazar,Chilean,3,0,0,3.0,-0.97,-0.95,1950-1982 Ground Effect,-0.77
+849,aitken,Jack Aitken,British,1,0,0,0.0,-0.96,-0.96,2014-2026 Hybrid Era,-0.77
+572,hayje,Boy Lunger,Dutch,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+171,cruz,Adolfo Cruz,Argentine,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+190,fitzau,Theo Fitzau,East German,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+184,ian_stewart,Ian Stewart,British,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+832,merhi,Roberto Merhi,Spanish,1,0,0,0.0,-0.96,-0.96,2014-2026 Hybrid Era,-0.77
+189,karch,Oswald Karch,German,1,0,0,0.0,-0.96,-0.96,1950-1982 Ground Effect,-0.77
+571,binder,Hans Binder,Austrian,2,0,0,0.0,-0.99,-0.95,1950-1982 Ground Effect,-0.77
+402,vyver,Syd van der Vyver,South African,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+400,harris,Mike Harris,South African,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+381,pon,Ben Pon,Dutch,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+392,kuhnke,Kurt Kuhnke,German,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+522,edwards,Guy Edwards,British,2,0,0,0.0,-1.01,-0.95,1950-1982 Ground Effect,-0.78
+828,stevens,Will Stevens,British,2,0,0,0.0,-1.0,-0.96,2014-2026 Hybrid Era,-0.78
+390,walter,Heini Walter,Swiss,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+273,marsh,Tony Marsh,British,4,0,0,0.0,-1.03,-0.93,1950-1982 Ground Effect,-0.78
+388,chamberlain,Jay Chamberlain,American,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+397,johnstone,Bruce Johnstone,South African,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+389,shelly,Tony Shelly,New Zealander,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+384,schiller,Heinz Schiller,Swiss,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+777,kiesa,Nicolas Kiesa,Danish,1,0,0,0.0,-0.97,-0.97,1983-2005 V10 / Turbo,-0.78
+401,hocking,Gary Hocking,Rhodesian,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+393,schroeder,Rob Schroeder,British,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+382,slotemaker,Rob Slotemaker,Dutch,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+489,hutchison,Gus Hutchison,American,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+394,mayer,Timmy Mayer,American,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+465,rooyen,Basil van Rooyen,South African,2,0,0,0.0,-0.99,-0.97,1950-1982 Ground Effect,-0.78
+476,cordts,John Cordts,Canadian,1,0,0,0.0,-0.97,-0.97,1950-1982 Ground Effect,-0.78
+263,bueb,Ivor Bueb,British,3,0,0,0.0,-1.07,-0.93,1950-1982 Ground Effect,-0.79
+439,rhodes,John Rhodes,British,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+431,hawkins,Paul Hawkins,Australian,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+629,borgudd,Slim Borgudd,Swedish,2,0,0,1.0,-1.03,-0.95,1950-1982 Ground Effect,-0.79
+437,blignaut,Alex Blignaut,South African,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+435,reed,Ray Reed,South African,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+436,clapham,David Clapham,South African,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+429,geki,Giacomo Russo,Italian,2,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+266,magill,Mike Magill,American,3,0,0,0.0,-1.07,-0.93,1950-1982 Ground Effect,-0.79
+267,cheesbourg,Bill Cheesbourg,American,3,0,0,0.0,-1.07,-0.93,1950-1982 Ground Effect,-0.79
+260,tomaso,Alessandro de Tomaso,Argentine,2,0,0,0.0,-1.07,-0.93,1950-1982 Ground Effect,-0.79
+442,bassi,Giorgio Bassi,Italian,1,0,0,0.0,-0.99,-0.99,1950-1982 Ground Effect,-0.79
+376,penske,Roger Penske,American,2,0,0,0.0,-1.05,-0.97,1950-1982 Ground Effect,-0.8
+113,jover,Juan Jover,Spanish,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+628,londono,Ricardo Londoño,Colombian,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+371,vaccarella,Nino Vaccarella,Italian,3,0,0,0.0,-1.03,-0.97,1950-1982 Ground Effect,-0.8
+446,lawrence,Chris Lawrence,British,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+106,parker,Philip Fotheringham-Parker,British,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+823,garde,Giedo van der Garde,Dutch,1,0,0,0.0,-1.0,-1.0,2006-2013 V8 Aero,-0.8
+372,bussinello,Roberto Bussinello,Italian,3,0,0,0.0,-1.03,-0.97,1950-1982 Ground Effect,-0.8
+107,john_james,John James,British,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+112,grignard,Georges Grignard,French,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+94,mackey,Bill Mackey,American,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+90,forberg,Carl Forberg,American,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+625,guerra,Miguel Ángel Guerra,Argentine,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+110,richardson,Ken Richardson,British,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+606,gabbiani,Beppe Gabbiani,Italian,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+821,jules_bianchi,Jules Bianchi,French,2,0,0,2.0,-1.01,-1.0,2006-2013 V8 Aero,-0.8
+626,stohr,Siegfried Stohr,Italian,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+624,serra,Chico Serra,Brazilian,3,0,0,1.0,-1.01,-0.99,1950-1982 Ground Effect,-0.8
+363,ashmore,Gerry Ashmore,British,2,0,0,0.0,-1.05,-0.97,1950-1982 Ground Effect,-0.8
+102,gordini,Aldo Gordini,French,1,0,0,0.0,-1.0,-1.0,1950-1982 Ground Effect,-0.8
+646,acheson,Kenny Acheson,British,2,0,0,0.0,-1.0,-0.99,1983-2005 V10 / Turbo,-0.8
+637,guerrero,Roberto Guerrero,Colombian,2,0,0,0.0,-1.05,-0.99,1950-1982 Ground Effect,-0.81
+634,boesel,Raul Boesel,Brazilian,2,0,0,0.0,-1.05,-0.99,1983-2005 V10 / Turbo,-0.81
+592,leoni,Lamberto Leoni,Italian,1,0,0,0.0,-1.01,-1.01,1950-1982 Ground Effect,-0.81
+605,rahal,Bobby Rahal,American,1,0,0,0.0,-1.01,-1.01,1950-1982 Ground Effect,-0.81
+594,ongais,Danny Ongais,American,2,0,0,0.0,-1.02,-1.01,1950-1982 Ground Effect,-0.81
+822,chilton,Max Chilton,British,2,0,0,0.0,-1.02,-1.0,2006-2013 V8 Aero,-0.81
+590,bleekemolen,Michael Bleekemolen,Dutch,1,0,0,0.0,-1.01,-1.01,1950-1982 Ground Effect,-0.81
+595,takahashi,Kunimitsu Takahashi,Japanese,1,0,0,0.0,-1.02,-1.02,1950-1982 Ground Effect,-0.82
+566,villota,Emilio de Villota,Spanish,1,0,0,0.0,-1.02,-1.02,1950-1982 Ground Effect,-0.82
+473,unser,Bobby Unser,American,1,0,0,0.0,-1.02,-1.02,1950-1982 Ground Effect,-0.82
+315,davis,Colin Davis,British,2,0,0,0.0,-1.09,-0.97,1950-1982 Ground Effect,-0.82
+469,widdows,Robin Widdows,British,1,0,0,0.0,-1.02,-1.02,1950-1982 Ground Effect,-0.82
+853,mazepin,Nikita Mazepin,Russian,1,0,0,0.0,-1.03,-1.03,2014-2026 Hybrid Era,-0.82
+810,grassi,Lucas di Grassi,Brazilian,1,0,0,0.0,-1.04,-1.04,2006-2013 V8 Aero,-0.83
+827,lotterer,André Lotterer,German,1,0,0,0.0,-1.05,-1.05,2014-2026 Hybrid Era,-0.84
+818,pic,Charles Pic,French,2,0,0,0.0,-1.14,-1.0,2006-2013 V8 Aero,-0.85
+610,gaillard,Patrick Gaillard,French,1,0,0,0.0,-1.06,-1.06,1950-1982 Ground Effect,-0.85
+542,quester,Dieter Quester,Austrian,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+292,bisch,Art Bisch,American,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+543,koinigg,Helmuth Koinigg,Austrian,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+300,guelfi,André Guelfi,French,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+535,dolhem,José Dolhem,French,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+299,la_caze,Robert La Caze,French,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+533,roos,Bertil Roos,Swedish,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+298,goethals,Christian Goethals,Belgian,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+280,filippis,Maria de Filippis,Italian,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+290,jerry_unser,Jerry Unser,American,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+301,picard,François Picard,French,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+523,robarts,Richard Robarts,British,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+531,larrousse,Gérard Larrousse,French,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+529,pilette,Teddy Pilette,Belgian,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+527,belso,Tom Belsø,Danish,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+302,bridger,Tom Bridger,British,1,0,0,0.0,-1.08,-1.08,1950-1982 Ground Effect,-0.86
+532,kinnunen,Leo Kinnunen,Finnish,1,0,0,0.0,-1.07,-1.07,1950-1982 Ground Effect,-0.86
+801,bourdais,Sébastien Bourdais,French,2,0,0,6.0,-1.1,-1.1,2006-2013 V8 Aero,-0.88
+294,shelby,Carroll Shelby,American,2,0,0,0.0,-1.14,-1.08,1950-1982 Ground Effect,-0.88
+286,larson,Jud Larson,American,2,0,0,0.0,-1.14,-1.08,1950-1982 Ground Effect,-0.88
+636,paletti,Riccardo Paletti,Italian,1,0,0,0.0,-1.1,-1.1,1950-1982 Ground Effect,-0.88
+640,byrne,Tommy Byrne,Irish,1,0,0,0.0,-1.1,-1.1,1950-1982 Ground Effect,-0.88
+364,natili,Massimo Natili,Italian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+361,bordeu,Juan Manuel Bordeu,Argentine,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+373,lippi,Roberto Lippi,Italian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+356,may,Michael May,Swiss,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+366,pirocchi,Renato Pirocchi,Italian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+365,monteverdi,Peter Monteverdi,Swiss,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+380,ken_miles,Ken Miles,British,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+375,boffa,Menato Boffa,Italian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+374,prinoth,Ernesto Prinoth,Italian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+377,ryan,Peter Ryan,Canadian,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+327,parnell,Tim Parnell,British,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+367,duke,Geoff Duke,British,1,0,0,0.0,-1.12,-1.12,1950-1982 Ground Effect,-0.9
+313,orey,Fritz d'Orey,Brazilian,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+316,fontes,Azdrubal Fontes,Uruguayan,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+331,said,Bob Said,American,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+330,constantine,George Constantine,American,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+329,blanchard,Harry Blanchard,American,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+319,ashdown,Peter Ashdown,British,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+332,cade,Phil Cade,American,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96
+307,arnold,Chuck Arnold,American,1,0,0,0.0,-1.2,-1.2,1950-1982 Ground Effect,-0.96

@@ -1,0 +1,157 @@
+constructorId,constructorRef,constructorName,nationality,seasonsActive,firstYear,lastYear,championships,totalWins,totalPoints,bestFinish,primaryEra
+6,ferrari,Ferrari,Italian,69,1958,2026,16,225,11146.0,1,1950-1982 Ground Effect
+117,mclaren,McLaren,British,57,1968,2026,10,201,8014.5,1,1983-2005 V10 / Turbo
+48,mercedes,Mercedes,German,17,2010,2026,9,134,8766.5,1,2014-2026 Hybrid Era
+141,williams,Williams,British,51,1975,2026,9,114,3792.0,1,1983-2005 V10 / Turbo
+191,red_bull,Red Bull,Austrian,22,2005,2026,6,132,8643.0,1,2014-2026 Hybrid Era
+58,team_lotus,Team Lotus,British,29,1958,1994,4,45,907.0,1,1950-1982 Ground Effect
+152,renault,Renault,French,24,1977,2020,2,35,1777.0,1,1983-2005 V10 / Turbo
+74,lotus-climax,Lotus-Climax,British,7,1961,1967,2,22,224.0,1,1950-1982 Ground Effect
+59,cooper-climax,Cooper-Climax,British,9,1959,1968,2,12,192.0,1,1950-1982 Ground Effect
+105,brabham-repco,Brabham-Repco,British,4,1966,1969,2,8,119.0,1,1950-1982 Ground Effect
+167,benetton,Benetton,Italian,16,1986,2001,1,27,861.5,1,1983-2005 V10 / Turbo
+123,tyrrell,Tyrrell,British,29,1970,1998,1,23,614.0,1,1983-2005 V10 / Turbo
+34,brm,BRM,British,20,1958,1977,1,17,385.0,1,1950-1982 Ground Effect
+94,lotus-ford,Lotus-Ford,British,5,1963,1971,1,11,174.0,1,1950-1982 Ground Effect
+199,brawn,Brawn,British,1,2009,2009,1,8,172.0,1,2006-2013 V8 Aero
+116,matra-ford,Matra-Ford,French,2,1968,1969,1,9,111.0,1,1950-1982 Ground Effect
+49,vanwall,Vanwall,British,3,1958,1960,1,6,48.0,1,1950-1982 Ground Effect
+198,force_india,Force India,Indian,11,2008,2018,0,0,1098.0,4,2006-2013 V8 Aero
+204,lotus_f1,Lotus F1,British,4,2012,2015,0,2,706.0,4,2006-2013 V8 Aero
+182,sauber,Sauber,Swiss,24,1993,2025,0,0,631.0,4,1983-2005 V10 / Turbo
+210,alpine,Alpine F1 Team,French,6,2021,2026,0,1,604.0,4,2014-2026 Hybrid Era
+64,aston_martin,Aston Martin,British,8,1959,2026,0,0,602.0,5,2014-2026 Hybrid Era
+83,brabham,Brabham,British,22,1962,1992,0,23,590.0,2,1950-1982 Ground Effect
+195,toro_rosso,Toro Rosso,Italian,14,2006,2019,0,1,500.0,6,2006-2013 V8 Aero
+207,haas,Haas F1 Team,American,11,2016,2026,0,0,416.0,6,2014-2026 Hybrid Era
+146,ligier,Ligier,French,21,1976,1996,0,9,388.0,2,1983-2005 V10 / Turbo
+209,alphatauri,AlphaTauri,Italian,4,2020,2023,0,1,309.0,6,2014-2026 Hybrid Era
+192,bmw_sauber,BMW Sauber,German,4,2006,2009,0,1,308.0,2,2006-2013 V8 Aero
+177,jordan,Jordan,Irish,15,1991,2005,0,4,291.0,3,1983-2005 V10 / Turbo
+190,toyota,Toyota,Japanese,8,2002,2009,0,0,278.5,4,1983-2005 V10 / Turbo
+208,racing_point,Racing Point,British,2,2019,2020,0,1,268.0,4,2014-2026 Hybrid Era
+211,rb,RB F1 Team,Italian,3,2024,2026,0,0,240.0,5,2014-2026 Hybrid Era
+188,bar,BAR,British,7,1999,2005,0,0,227.0,2,1983-2005 V10 / Turbo
+1,alfa,Alfa Romeo,Swiss,14,1963,2023,0,0,199.0,6,1950-1982 Ground Effect
+98,honda,Honda,Japanese,8,1964,2008,0,3,154.0,4,1950-1982 Ground Effect
+157,arrows,Arrows,British,19,1978,2002,0,0,142.0,5,1983-2005 V10 / Turbo
+119,march,March,British,13,1970,1992,0,3,139.5,3,1950-1982 Ground Effect
+104,mclaren-ford,McLaren-Ford,British,5,1966,1970,0,4,124.0,2,1950-1982 Ground Effect
+148,wolf,Wolf,Canadian,4,1976,1979,0,3,79.0,4,1950-1982 Ground Effect
+60,cooper-maserati,Cooper-Maserati,British,9,1959,1969,0,2,61.0,3,1950-1982 Ground Effect
+95,brabham-climax,Brabham-Climax,British,6,1964,1969,0,2,60.0,3,1950-1982 Ground Effect
+131,shadow,Shadow,British,7,1973,1980,0,1,58.0,7,1950-1982 Ground Effect
+122,surtees,Surtees,British,9,1970,1978,0,0,53.0,5,1950-1982 Ground Effect
+111,matra,Matra,French,5,1967,1972,0,0,52.0,7,1950-1982 Ground Effect
+97,brabham-ford,Brabham-Ford,British,6,1964,1979,0,2,51.0,2,1950-1982 Ground Effect
+189,jaguar,Jaguar,British,5,2000,2004,0,0,49.0,7,1983-2005 V10 / Turbo
+133,hesketh,Hesketh,British,5,1974,1978,0,1,48.0,4,1950-1982 Ground Effect
+186,stewart,Stewart,British,3,1997,1999,0,1,47.0,4,1983-2005 V10 / Turbo
+57,porsche,Porsche,German,7,1958,1964,0,1,46.0,3,1950-1982 Ground Effect
+142,fittipaldi,Fittipaldi,Brazilian,8,1975,1982,0,0,44.0,7,1950-1982 Ground Effect
+165,minardi,Minardi,Italian,21,1985,2005,0,0,38.0,7,1983-2005 V10 / Turbo
+187,prost,Prost,French,5,1997,2001,0,0,35.0,6,1983-2005 V10 / Turbo
+124,march-ford,March-Ford,British,1,1971,1971,0,0,34.0,3,1950-1982 Ground Effect
+7,cooper,Cooper,British,2,1958,1962,0,2,31.0,3,1950-1982 Ground Effect
+82,lotus-brm,Lotus-BRM,British,6,1962,1967,0,1,29.0,5,1950-1982 Ground Effect
+81,lola,Lola,British,10,1962,1993,0,0,27.0,4,1950-1982 Ground Effect
+162,toleman,Toleman,British,5,1981,1985,0,0,26.0,7,1983-2005 V10 / Turbo
+178,footwork,Footwork,British,6,1991,1996,0,0,25.0,7,1983-2005 V10 / Turbo
+139,penske,Penske,American,4,1974,1977,0,1,23.0,5,1950-1982 Ground Effect
+215,audi,Audi,German,1,2026,2026,0,0,23.0,8,2014-2026 Hybrid Era
+169,larrousse,Larrousse,French,8,1987,1994,0,0,22.0,6,1983-2005 V10 / Turbo
+132,ensign,Ensign,British,10,1973,1982,0,0,19.0,10,1950-1982 Ground Effect
+147,brabham-alfa_romeo,Brabham-Alfa Romeo,British,2,1976,1979,0,0,16.0,8,1950-1982 Ground Effect
+171,dallara,Dallara,Italian,5,1988,1992,0,0,15.0,8,1983-2005 V10 / Turbo
+115,cooper-brm,Cooper-BRM,British,1,1968,1968,0,0,14.0,7,1950-1982 Ground Effect
+96,brabham-brm,Brabham-BRM,British,3,1964,1966,0,0,13.0,6,1950-1982 Ground Effect
+110,eagle-weslake,Eagle-Weslake,American,3,1966,1968,0,1,13.0,7,1950-1982 Ground Effect
+91,brp,BRP,British,2,1963,1964,0,0,11.0,6,1950-1982 Ground Effect
+143,shadow-ford,Shadow-Ford,British,1,1975,1975,0,0,9.5,6,1950-1982 Ground Effect
+175,leyton,Leyton House,British,2,1990,1991,0,0,8.0,7,1983-2005 V10 / Turbo
+89,ats,ATS,Italian,8,1963,1984,0,0,7.0,11,1950-1982 Ground Effect
+140,parnelli,Parnelli,American,3,1974,1976,0,0,6.0,10,1950-1982 Ground Effect
+173,rial,Rial,German,2,1988,1989,0,0,6.0,9,1983-2005 V10 / Turbo
+130,iso_marlboro,Iso Marlboro,British,2,1973,1974,0,0,6.0,10,1950-1982 Ground Effect
+112,mclaren-brm,McLaren-BRM,British,2,1967,1968,0,0,6.0,10,1950-1982 Ground Effect
+174,onyx,Onyx,British,2,1989,1990,0,0,6.0,10,1983-2005 V10 / Turbo
+2,maserati,Maserati,Italian,3,1958,1960,0,0,6.0,5,1950-1982 Ground Effect
+161,osella,Osella,Italian,11,1980,1990,0,0,5.0,11,1983-2005 V10 / Turbo
+107,eagle-climax,Eagle-Climax,American,3,1966,1969,0,0,4.0,7,1950-1982 Ground Effect
+193,super_aguri,Super Aguri,Japanese,3,2006,2008,0,0,4.0,9,2006-2013 V8 Aero
+72,cooper-castellotti,Cooper-Castellotti,British,1,1960,1960,0,0,3.0,6,1950-1982 Ground Effect
+144,hill,Embassy Hill,British,1,1975,1975,0,0,3.0,11,1950-1982 Ground Effect
+166,zakspeed,Zakspeed,German,5,1985,1989,0,0,2.0,10,1983-2005 V10 / Turbo
+168,ags,AGS,French,6,1986,1991,0,0,2.0,12,1983-2005 V10 / Turbo
+205,marussia,Marussia,Russian,3,2012,2014,0,0,2.0,9,2006-2013 V8 Aero
+155,theodore,Theodore,Hong Kong,4,1978,1983,0,0,2.0,11,1950-1982 Ground Effect
+106,mclaren-seren,McLaren-Serenissima,British,1,1966,1966,0,0,1.0,12,1950-1982 Ground Effect
+127,tecno,Tecno,Italian,2,1972,1973,0,0,1.0,11,1950-1982 Ground Effect
+206,manor,Manor Marussia,British,2,2015,2016,0,0,1.0,10,2014-2026 Hybrid Era
+197,spyker,Spyker,Dutch,1,2007,2007,0,0,1.0,10,2006-2013 V8 Aero
+121,bellasi,Bellasi,Swiss,2,1970,1971,0,0,0.0,,1950-1982 Ground Effect
+158,martini,Martini,French,1,1978,1978,0,0,0.0,,1950-1982 Ground Effect
+150,kojima,Kojima,Japanese,2,1976,1977,0,0,0.0,,1950-1982 Ground Effect
+194,mf1,MF1,Russian,1,2006,2006,0,0,0.0,10,2006-2013 V8 Aero
+70,behra-porsche,Behra-Porsche,Italian,1,1960,1960,0,0,0.0,,1950-1982 Ground Effect
+200,hrt,HRT,Spanish,3,2010,2012,0,0,0.0,11,2006-2013 V8 Aero
+172,eurobrun,Euro Brun,Italian,2,1988,1990,0,0,0.0,,1983-2005 V10 / Turbo
+138,lyncar,Lyncar,British,1,1975,1975,0,0,0.0,,1950-1982 Ground Effect
+164,spirit,Spirit,British,3,1983,1985,0,0,0.0,,1983-2005 V10 / Turbo
+108,shannon,Shannon,British,1,1966,1966,0,0,0.0,,1950-1982 Ground Effect
+101,lds-climax,LDS-Climax,South African,1,1967,1967,0,0,0.0,,1950-1982 Ground Effect
+76,ferguson,Ferguson,British,1,1961,1961,0,0,0.0,,1950-1982 Ground Effect
+102,lds-alfa_romeo,LDS-Alfa Romeo,South African,1,1965,1965,0,0,0.0,,1950-1982 Ground Effect
+118,brm-ford,BRM-Ford,British,1,1969,1969,0,0,0.0,,1950-1982 Ground Effect
+128,politoys,Politoys,British,1,1972,1972,0,0,0.0,,1950-1982 Ground Effect
+180,lambo,Lambo,Italian,1,1991,1991,0,0,0.0,,1983-2005 V10 / Turbo
+163,ram,RAM,British,3,1983,1985,0,0,0.0,,1983-2005 V10 / Turbo
+75,de_tomaso-osca,De Tomaso-Osca,Italian,1,1961,1961,0,0,0.0,,1950-1982 Ground Effect
+183,pacific,Pacific,British,2,1994,1995,0,0,0.0,,1983-2005 V10 / Turbo
+87,lds,LDS,South African,3,1962,1968,0,0,0.0,,1950-1982 Ground Effect
+80,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian,2,1961,1962,0,0,0.0,,1950-1982 Ground Effect
+126,lotus-pw,Lotus-Pratt &amp; Whitney,British,1,1971,1971,0,0,0.0,,1950-1982 Ground Effect
+10,kurtis_kraft,Kurtis Kraft,American,1,1959,1959,0,0,0.0,,1950-1982 Ground Effect
+151,lec,LEC,British,1,1977,1977,0,0,0.0,,1950-1982 Ground Effect
+79,lotus-maserati,Lotus-Maserati,British,2,1961,1963,0,0,0.0,,1950-1982 Ground Effect
+67,cooper-borgward,Cooper-Borgward,British,1,1959,1959,0,0,0.0,,1950-1982 Ground Effect
+201,virgin,Virgin,British,2,2010,2011,0,0,0.0,12,2006-2013 V8 Aero
+156,merzario,Merzario,Italian,2,1978,1979,0,0,0.0,,1950-1982 Ground Effect
+203,caterham,Caterham,Malaysian,3,2012,2014,0,0,0.0,10,2006-2013 V8 Aero
+88,cooper-alfa_romeo,Cooper-Alfa Romeo,British,1,1962,1962,0,0,0.0,,1950-1982 Ground Effect
+145,shadow-matra,Shadow-Matra,British,1,1975,1975,0,0,0.0,,1950-1982 Ground Effect
+129,connew,Connew,British,1,1972,1972,0,0,0.0,,1950-1982 Ground Effect
+134,amon,Amon,New Zealander,1,1974,1974,0,0,0.0,,1950-1982 Ground Effect
+93,stebro,Stebro,Canadian,1,1963,1963,0,0,0.0,,1950-1982 Ground Effect
+90,scirocco,Scirocco,British,2,1963,1964,0,0,0.0,,1950-1982 Ground Effect
+137,maki,Maki,Japanese,1,1975,1975,0,0,0.0,,1950-1982 Ground Effect
+136,token,Token,British,1,1974,1974,0,0,0.0,,1950-1982 Ground Effect
+100,re,RE,Rhodesian,1,1965,1965,0,0,0.0,,1950-1982 Ground Effect
+185,forti,Forti,Italian,2,1995,1996,0,0,0.0,,1983-2005 V10 / Turbo
+55,emeryson,Emeryson,British,2,1961,1962,0,0,0.0,,1950-1982 Ground Effect
+77,gilby,Gilby,British,3,1961,1963,0,0,0.0,,1950-1982 Ground Effect
+125,march-alfa_romeo,March-Alfa Romeo,British,1,1971,1971,0,0,0.0,,1950-1982 Ground Effect
+86,lotus-borgward,Lotus-Borgward,British,1,1962,1962,0,0,0.0,,1950-1982 Ground Effect
+120,mclaren-alfa_romeo,McLaren-Alfa Romeo,British,1,1970,1970,0,0,0.0,,1950-1982 Ground Effect
+135,trojan,Trojan,British,1,1974,1974,0,0,0.0,,1950-1982 Ground Effect
+179,fondmetal,Fondmetal,Italian,2,1991,1992,0,0,0.0,,1983-2005 V10 / Turbo
+65,jbw,JBW,British,3,1959,1961,0,0,0.0,,1950-1982 Ground Effect
+99,derrington,Derrington,British,1,1964,1964,0,0,0.0,,1950-1982 Ground Effect
+196,spyker_mf1,Spyker MF1,Dutch,1,2006,2006,0,0,0.0,12,2006-2013 V8 Aero
+114,protos,Protos,British,1,1967,1967,0,0,0.0,,1950-1982 Ground Effect
+85,tomaso,De Tomaso,Italian,2,1963,1970,0,0,0.0,,1950-1982 Ground Effect
+69,cooper-osca,Cooper-OSCA,British,1,1959,1959,0,0,0.0,,1950-1982 Ground Effect
+181,moda,Andrea Moda,Italian,1,1992,1992,0,0,0.0,,1983-2005 V10 / Turbo
+78,mbm,MBM,Swiss,1,1961,1961,0,0,0.0,,1950-1982 Ground Effect
+113,cooper-ats,Cooper-ATS,British,1,1967,1967,0,0,0.0,,1950-1982 Ground Effect
+170,coloni,Coloni,Italian,3,1987,1989,0,0,0.0,,1983-2005 V10 / Turbo
+202,lotus_racing,Lotus,Malaysian,2,2010,2011,0,0,0.0,10,2006-2013 V8 Aero
+184,simtek,Simtek,British,2,1994,1995,0,0,0.0,,1983-2005 V10 / Turbo
+40,connaught,Connaught,British,2,1958,1959,0,0,0.0,,1950-1982 Ground Effect
+160,rebaque,Rebaque,Mexican,1,1979,1979,0,0,0.0,,1950-1982 Ground Effect
+109,cooper-ferrari,Cooper-Ferrari,British,1,1966,1966,0,0,0.0,,1950-1982 Ground Effect
+216,cadillac,Cadillac F1 Team,American,1,2026,2026,0,0,0.0,11,2014-2026 Hybrid Era
+68,tec-mec,Tec-Mec,Italian,1,1959,1959,0,0,0.0,,1950-1982 Ground Effect
+71,scarab,Scarab,American,1,1960,1960,0,0,0.0,,1950-1982 Ground Effect
+149,boro,Boro,Dutch,2,1976,1977,0,0,0.0,,1950-1982 Ground Effect
+84,enb,ENB,Belgian,1,1962,1962,0,0,0.0,,1950-1982 Ground Effect
