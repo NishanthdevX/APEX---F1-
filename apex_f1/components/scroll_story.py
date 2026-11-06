@@ -218,13 +218,16 @@ def scroll_story() -> rx.Component:
                 spacing="2",
                 margin_bottom="1.5rem",
             ),
-            # 5 Numbered Pill Tab Switchers
+            # 8 Numbered Pill Tab Switchers
             rx.hstack(
                 mode_tab_button(1, "Dynasties & Wins"),
                 mode_tab_button(2, "Driver Greatness"),
                 mode_tab_button(3, "Pace & Physics"),
                 mode_tab_button(4, "Circuit Longevity"),
                 mode_tab_button(5, "Decade Heatmap"),
+                mode_tab_button(6, "Reliability & DNFs"),
+                mode_tab_button(7, "Pit Stop Velocity"),
+                mode_tab_button(8, "Title Margins"),
                 spacing="2",
                 wrap="wrap",
                 margin_bottom="1rem",
@@ -263,6 +266,42 @@ def scroll_story() -> rx.Component:
                         subview_pill("Most-Raced Circuits", ApexState.stage4_view == "circuits_bar", ApexState.set_stage4_view("circuits_bar")),
                         subview_pill("Global Circuit Coordinates", ApexState.stage4_view == "circuits_map", ApexState.set_stage4_view("circuits_map")),
                         spacing="2",
+                    ),
+                ),
+                rx.cond(
+                    ApexState.active_stage == 6,
+                    rx.hstack(
+                        rx.text(
+                            "STACKED 100% BAR · Finished vs Mechanical Failure vs Accident/Collision (1950s–2020s)",
+                            font_family=FONT_MONO,
+                            font_size="10.5px",
+                            color=TEXT_MUTED,
+                            padding_y="6px",
+                        ),
+                    ),
+                ),
+                rx.cond(
+                    ApexState.active_stage == 7,
+                    rx.hstack(
+                        rx.text(
+                            "BOX PLOT · Full pit stop duration distribution per constructor · 15s–60s cleaned window",
+                            font_family=FONT_MONO,
+                            font_size="10.5px",
+                            color=TEXT_MUTED,
+                            padding_y="6px",
+                        ),
+                    ),
+                ),
+                rx.cond(
+                    ApexState.active_stage == 8,
+                    rx.hstack(
+                        rx.text(
+                            "BAR CHART · 🔴 Red = nail-biter (≤5 pts) · Blue = comfortable margin · 1950–2026",
+                            font_family=FONT_MONO,
+                            font_size="10.5px",
+                            color=TEXT_MUTED,
+                            padding_y="6px",
+                        ),
                     ),
                 ),
                 # Era Pills

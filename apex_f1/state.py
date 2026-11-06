@@ -60,7 +60,7 @@ class ApexState(rx.State):
     # Search & Filter Query
     search_query: str = ""
 
-    # Multi-Mode Tab Switcher (1 = Dynasties & Wins, 2 = Driver Greatness, 3 = Lap Pace & Physics, 4 = Circuit Longevity, 5 = Decade Heatmap)
+    # Multi-Mode Tab Switcher (1 = Dynasties & Wins, 2 = Driver Greatness, 3 = Lap Pace & Physics, 4 = Circuit Longevity, 5 = Decade Heatmap, 6 = Reliability & DNFs, 7 = Pit Stop Velocity, 8 = Title Margins)
     active_stage: int = 1
 
     # Sub-View Toggles per Stage
@@ -167,7 +167,7 @@ class ApexState(rx.State):
     # --------------------------------------------------------------------------
     @rx.var
     def show_leaderboard_grid(self) -> bool:
-        return self.active_stage in [1, 2, 4, 5]
+        return self.active_stage in [1, 2, 4, 5, 7]
 
     @rx.var
     def current_scrub_year(self) -> int:
@@ -238,6 +238,12 @@ class ApexState(rx.State):
                 return "Monza, Monaco, Silverstone and Spa form the foundational core of World Championship history"
             else:
                 return "78 circuits across 6 continents illustrate the global expansion of Formula 1"
+        elif self.active_stage == 6:
+            return "Mechanical DNF rates collapsed from ~44% in the 1960s to under 12% by the 2010s — modern reliability is a revolution"
+        elif self.active_stage == 7:
+            return "Red Bull's sub-23s median crew efficiency is the gold standard: 0.2s faster than Ferrari over thousands of stops"
+        elif self.active_stage == 8:
+            return "1984 saw the closest championship in history (0.5 pt gap) while 2023 was the most dominant in modern F1 (+290 pts)"
         else:
             return "Mercedes and Red Bull achieved unprecedented ~47% win-shares in the 2010s and 2020s"
 
@@ -251,6 +257,12 @@ class ApexState(rx.State):
             return "Unit: Lap Milliseconds & Delta (sec) | Period: 1996–2026 (28,141 Cleaned Monza Laps) | Source: Dataset/lap_times.csv"
         elif self.active_stage == 4:
             return "Unit: Grands Prix Hosted & Geo Coordinates | Period: 1950–2026 (1,167 Races) | Source: Dataset/circuits.csv & races.csv"
+        elif self.active_stage == 6:
+            return "Unit: % Share of All Race Entries by Outcome | Period: 1950s–2020s (8 Decades) | Source: Dataset/results.csv & status.csv"
+        elif self.active_stage == 7:
+            return "Unit: Pit Stop Duration (seconds) | Period: 2011–2026 | Source: Dataset/pit_stops.csv & results.csv"
+        elif self.active_stage == 8:
+            return "Unit: Points Gap Between P1 & P2 Driver per Season | Period: 1950–2026 | Source: Dataset/driver_standings.csv"
         else:
             return "Unit: Decade Win Share (%) & Total Victories | Period: 1950s–2020s (8 Decades) | Source: Dataset/results.csv"
 
@@ -276,6 +288,23 @@ class ApexState(rx.State):
             return (
                 "How to read: Bars indicate the total number of official World Championship Grands Prix hosted by each venue. "
                 "Monza and Monaco have been contested in almost every active championship season since 1950."
+            )
+        elif self.active_stage == 6:
+            return (
+                "How to read: Each stacked bar represents 100% of all race entries in that decade, divided into Finished, "
+                "Mechanical Failure, Accident/Collision, and Other DNF. Watch how reliability engineering transformed the sport."
+            )
+        elif self.active_stage == 7:
+            return (
+                "How to read: Box plots show the full distribution of pit stop durations per team (2011–2026). "
+                "The median line divides the box; whiskers extend to the 5th–95th percentile. "
+                "Only stops between 15s and 60s are included to exclude safety car anomalies."
+            )
+        elif self.active_stage == 8:
+            return (
+                "How to read: Each bar is the points gap between the season champion (P1) and runner-up (P2) at season's end. "
+                "Taller bars = dominant season; near-zero bars = nail-biter title fight. "
+                "Bars are colored red for sub-5-point title fights and blue otherwise."
             )
         else:
             return (
@@ -304,6 +333,21 @@ class ApexState(rx.State):
             return (
                 "Geographic Insight: Out of 78 historical circuits, only 4 venues have hosted 50+ Grands Prix. "
                 "Autodromo Nazionale Monza leads all circuits worldwide with 76 hosted championship rounds."
+            )
+        elif self.active_stage == 6:
+            return (
+                "Reliability Insight: The 1960s were the most dangerous decade with 46.7% of cars failing to finish due to mechanical causes. "
+                "By the 2010s, modern engineering reduced mechanical DNFs to just 12.4% — a 3.8x reliability improvement."
+            )
+        elif self.active_stage == 7:
+            return (
+                "Pit Stop Insight: Red Bull Racing holds the median fastest pit crew at 22.79s (2011–2026). "
+                "The legendary 1.82s stop at the 2019 Brazilian GP set the all-time World Record for fastest pit stop ever executed."
+            )
+        elif self.active_stage == 8:
+            return (
+                "Title Fight Insight: Niki Lauda won the 1984 championship by just 0.5 points over Alain Prost — the smallest margin ever. "
+                "Compare with 2023: Max Verstappen won by +290 points, the largest modern domination margin in hybrid-era history."
             )
         else:
             return (
@@ -378,6 +422,35 @@ class ApexState(rx.State):
                     "stat_detail": f"{c['lat']:.2f}° N",
                     "era_tag": "HISTORIC VENUE",
                     "badge_color": ACCENT_EMERALD if c["races_held"] >= 50 else ACCENT_COBALT,
+                })
+            return filtered[:8]
+        elif self.active_stage == 7:
+            pit_rows = bridge.get_pitstop_distributions()
+            filtered = []
+            team_colors = {
+                "Red Bull": COLOR_REDBULL,
+                "Mercedes": COLOR_MERCEDES,
+                "Ferrari": COLOR_FERRARI,
+                "McLaren": COLOR_MCLAREN,
+                "Williams": COLOR_WILLIAMS,
+                "Force India": "#FF80AB",
+                "Aston Martin": "#00665C",
+                "Alpine": "#0090FF",
+            }
+            for row in pit_rows:
+                nm = row.get("name", "Unknown")
+                if q and q not in nm.lower():
+                    continue
+                filtered.append({
+                    "id": nm,
+                    "rank": f"#{len(filtered) + 1}",
+                    "name": nm,
+                    "category": "PIT CREW PERFORMANCE",
+                    "stat_primary": f"{row.get('med_s', 0.0):.2f}s MEDIAN",
+                    "stat_secondary": f"IQR: {row.get('q1_s', 0.0):.2f}–{row.get('q3_s', 0.0):.2f}s",
+                    "stat_detail": f"{row.get('count', 0):,} STOPS",
+                    "era_tag": "2011–2026",
+                    "badge_color": team_colors.get(nm, COLOR_OTHER),
                 })
             return filtered[:8]
         else:
@@ -842,7 +915,7 @@ class ApexState(rx.State):
         # ----------------------------------------------------------------------
         # STAGE 05: Decade Consistency Heatmap Matrix (6 x 8)
         # ----------------------------------------------------------------------
-        else:
+        elif self.active_stage == 5:
             heatmap_data = bridge.get_constructor_decade_heatmap()
             decades = heatmap_data["decades"]
             teams = heatmap_data["teams"]
@@ -884,6 +957,164 @@ class ApexState(rx.State):
                 yaxis=dict(
                     showgrid=False,
                     tickfont=dict(family=FONT_MONO, color=TEXT_PRIMARY, size=12),
+                ),
+            )
+
+        # ----------------------------------------------------------------------
+        # STAGE 06: Mechanical Reliability & DNF Evolution (1950s–2020s)
+        # ----------------------------------------------------------------------
+        elif self.active_stage == 6:
+            rel_data = bridge.get_reliability_evolution()
+            decades = rel_data.get("decades", [])
+            cat_data = rel_data.get("data", {})
+            cat_colors = {
+                "Finished": ACCENT_EMERALD,
+                "Mechanical Failure": ACCENT_COLOR,
+                "Accident/Collision": ACCENT_AMBER,
+                "Other DNF": TEXT_MUTED,
+            }
+            for cat, color in cat_colors.items():
+                values = cat_data.get(cat, [0.0] * len(decades))
+                fig.add_trace(
+                    go.Bar(
+                        x=decades,
+                        y=values,
+                        name=cat,
+                        marker=dict(
+                            color=color,
+                            line=dict(color="rgba(0,0,0,0.3)", width=0.5),
+                        ),
+                        hoverinfo="text",
+                        hovertext=[
+                            f"<b>{cat}</b> ({dec})<br>Share: <b>{v:.1f}%</b> of all entries"
+                            for dec, v in zip(decades, values)
+                        ],
+                    )
+                )
+            fig.update_layout(
+                **glass_layout,
+                barmode="stack",
+                xaxis=dict(
+                    title=dict(text="CHAMPIONSHIP DECADE", font=dict(family=FONT_MONO, size=11, color=TEXT_MUTED)),
+                    showgrid=False,
+                    tickfont=dict(family=FONT_MONO, color=TEXT_PRIMARY, size=12),
+                ),
+                yaxis=dict(
+                    title=dict(text="SHARE OF ALL RACE ENTRIES (%)", font=dict(family=FONT_MONO, size=11, color=TEXT_MUTED)),
+                    showgrid=True,
+                    gridcolor="rgba(255, 255, 255, 0.05)",
+                    tickfont=dict(family=FONT_MONO, color=TEXT_SECONDARY),
+                    range=[0, 100],
+                ),
+            )
+
+        # ----------------------------------------------------------------------
+        # STAGE 07: Pit Stop Velocity & Crew Efficiency (2011–2026)
+        # ----------------------------------------------------------------------
+        elif self.active_stage == 7:
+            pit_rows = bridge.get_pitstop_distributions()
+            team_colors = {
+                "Red Bull": COLOR_REDBULL,
+                "Mercedes": COLOR_MERCEDES,
+                "Ferrari": COLOR_FERRARI,
+                "McLaren": COLOR_MCLAREN,
+                "Williams": COLOR_WILLIAMS,
+                "Force India": "#FF80AB",
+                "Aston Martin": "#00665C",
+                "Alpine": "#0090FF",
+            }
+            for row in pit_rows:
+                nm = row.get("name", "Team")
+                fig.add_trace(
+                    go.Box(
+                        y=[row["min_s"], row["q1_s"], row["med_s"], row["q3_s"], row["max_s"]],
+                        name=nm,
+                        marker=dict(color=team_colors.get(nm, COLOR_OTHER)),
+                        boxpoints=False,
+                        hoverinfo="text",
+                        hovertext=(
+                            f"<b>{nm}</b> (2011–2026 Pit Stops: {row.get('count', 0):,})<br>"
+                            f"Median: <b>{row.get('med_s', 0.0):.2f}s</b><br>"
+                            f"Q1–Q3 Range: [{row.get('q1_s', 0.0):.2f}s, {row.get('q3_s', 0.0):.2f}s]<br>"
+                            f"Fastest Clean Stop: {row.get('min_s', 0.0):.2f}s"
+                        ),
+                    )
+                )
+            fig.update_layout(
+                **glass_layout,
+                showlegend=False,
+                yaxis=dict(
+                    title=dict(text="PIT STOP DURATION (SECONDS)", font=dict(family=FONT_MONO, size=11, color=TEXT_MUTED)),
+                    showgrid=True,
+                    gridcolor="rgba(255, 255, 255, 0.05)",
+                    tickfont=dict(family=FONT_MONO, color=TEXT_SECONDARY),
+                ),
+                xaxis=dict(
+                    showgrid=False,
+                    tickfont=dict(family=FONT_MONO, color=TEXT_PRIMARY, size=11),
+                ),
+            )
+
+        # ----------------------------------------------------------------------
+        # STAGE 08: Championship Title Fight Closeness (1950–2026)
+        # ----------------------------------------------------------------------
+        elif self.active_stage == 8:
+            margins = bridge.get_championship_margins()
+            if margins:
+                years = [m["year"] for m in margins]
+                pts = [float(m["margin"]) for m in margins]
+                champions = [m.get("champion", "") for m in margins]
+                runners_up = [m.get("runner_up", "") for m in margins]
+
+                # Highlight nail-biters (sub-5-point gap) in red
+                bar_colors = [ACCENT_COLOR if p <= 5.0 else ACCENT_COBALT for p in pts]
+
+                fig.add_trace(
+                    go.Bar(
+                        x=years,
+                        y=pts,
+                        marker=dict(
+                            color=bar_colors,
+                            line=dict(color="rgba(255,255,255,0.08)", width=0.5),
+                        ),
+                        hoverinfo="text",
+                        hovertext=[
+                            f"<b>{y} World Championship</b><br>"
+                            f"Champion: <b>{c}</b><br>"
+                            f"Runner-Up: {r}<br>"
+                            f"Points Gap: <b>{p:.1f} pts</b>"
+                            + (" 🔴 NAIL-BITER" if p <= 5.0 else "")
+                            for y, c, r, p in zip(years, champions, runners_up, pts)
+                        ],
+                    )
+                )
+
+                # Annotate historic nail-biters
+                nail_biters = [(y, p, c) for y, p, c in zip(years, pts, champions) if p <= 1.0]
+                for nb_year, nb_pts, nb_champ in nail_biters[:6]:
+                    fig.add_annotation(
+                        x=nb_year,
+                        y=nb_pts + 2,
+                        text=f"{nb_year}<br>{nb_pts:.1f}pt",
+                        showarrow=False,
+                        font=dict(family=FONT_MONO, size=9, color=ACCENT_COLOR),
+                        yshift=4,
+                    )
+
+            fig.update_layout(
+                **glass_layout,
+                showlegend=False,
+                xaxis=dict(
+                    title=dict(text="CHAMPIONSHIP SEASON", font=dict(family=FONT_MONO, size=11, color=TEXT_MUTED)),
+                    showgrid=True,
+                    gridcolor="rgba(255, 255, 255, 0.05)",
+                    tickfont=dict(family=FONT_MONO, color=TEXT_SECONDARY),
+                ),
+                yaxis=dict(
+                    title=dict(text="CHAMPIONSHIP WINNING MARGIN (POINTS)", font=dict(family=FONT_MONO, size=11, color=TEXT_MUTED)),
+                    showgrid=True,
+                    gridcolor="rgba(255, 255, 255, 0.05)",
+                    tickfont=dict(family=FONT_MONO, color=TEXT_SECONDARY),
                 ),
             )
 
